@@ -2,7 +2,8 @@
 ## 2o. SEMESTRE DE 2025
 
 
-# 🚀 GRUPO 01 - Projeto base de dados analítica a partir do arquivo tratado de acidentes 2024
+# 🚀 GRUPO 01
+## Tema: Projeto base de dados analítica a partir do arquivo tratado de acidentes 2024
 
 ### 📝 Descrição do Projeto
 Repositório destinado à entrega do projeto prático da disciplina **LAB 5 - Banco de Dados**.
@@ -18,5 +19,6 @@ Repositório destinado à entrega do projeto prático da disciplina **LAB 5 - Ba
 - [ ] Documentação Técnica (PDF) - TRABALHO DE LABORATÓRIO DE DESENVOLVIMENTO DE BANCO DE DADOS V - ETAPA 3.pdf e TRABALHO DE LABORATÓRIO DE DESENVOLVIMENTO DE BANCO DE DADOS V - ETAPA 4.pdf
 - [ ] Excel com Dados e Análises - Excel - Etapa 4.xlsb
 
+| **GRUPO-01** | 2025.2 | [📂 FATEC-BAURU-BD-LAB5-2026-1](https://github.com/prof-luis-alexandre/FATEC-BAURU-BD-LAB5-2025-2/PROJETOS/GRUPO-01) |
 ---
 *FATEC Bauru - Prof. Luis Alexandre - Semestre 2025.2*
