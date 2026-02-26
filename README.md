@@ -59,4 +59,33 @@ Banco de dados baseado nos microdados do Censo Escolar (INEP)
 
 | **GRUPO-03** | 2025.2 | [📂 Repositório ](https://github.com/prof-luis-alexandre/FATEC-BAURU-BD-LAB5-2025-2/tree/main/PROJETOS/GRUPO-03) |
 ---
+
+# 🚀 GRUPO 04
+## Tema: Análise das Linhas de Ônibus em Bauru – Mobilidade e Cobertura Urbana 
+
+### 📝 Descrição do Projeto
+O transporte público é um serviço essencial para a mobilidade urbana e a qualidade de 
+vida da população, especialmente em cidades de médio porte como Bauru. Escolher a 
+base de dados pública referente às linhas de ônibus de Bauru se justifica pela 
+disponibilidade dos dados no portal de transparência da prefeitura e sistemas abertos, 
+permitindo a coleta de informações atualizadas e relevantes sobre itinerários, pontos 
+de parada e horários. Além disso, o estudo do transporte coletivo em Bauru atende a 
+uma demanda real da comunidade local, que depende majoritariamente do sistema de 
+ônibus para deslocamentos diários. A análise desses dados possibilitará identificar 
+pontos críticos na cobertura e eficiência do sistema, subsidiando propostas de 
+melhoria e otimização do serviço. 
+
+### 👥 Integrantes do Grupo
+* xx
+* xx
+* xx
+
+### 📂 Documentação e Arquivos
+- [ ] Modelo Entidade-Relacionamento (MER)
+- [ ] Scripts SQL (.sql)
+- [ ] Documentação Técnica (PDF)
+- [ ] Excel com Dados e Análises
+
+| **GRUPO-04** | 2025.2 | [📂 Repositório ](https://github.com/prof-luis-alexandre/FATEC-BAURU-BD-LAB5-2025-2/tree/main/PROJETOS/GRUPO-04) |
+---
 *FATEC Bauru - Prof. Luis Alexandre - Semestre 2025.2*
