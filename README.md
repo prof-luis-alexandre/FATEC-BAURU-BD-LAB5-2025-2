@@ -1,6 +1,5 @@
 # Projetos da disciplina de LABORATÓRIO DE DESENVOLVIMENTO EM BANCO DE DADOS V
 ## 2o. SEMESTRE DE 2025
----
 
 # 🚀 GRUPO 01
 ## Tema: Projeto base de dados analítica a partir do arquivo tratado de acidentes 2024
@@ -38,6 +37,26 @@ Este projeto detalha a criação de um Data Mart (DM), que é um pequeno banco d
 - [ ] Documentação Técnica (PDF)
 - [ ] Excel com Dados e Análises
 
-| **GRUPO-01** | 2025.2 | [📂 Repositório ](https://github.com/prof-luis-alexandre/FATEC-BAURU-BD-LAB5-2025-2/tree/main/PROJETOS/GRUPO-02) |
+| **GRUPO-02** | 2025.2 | [📂 Repositório ](https://github.com/prof-luis-alexandre/FATEC-BAURU-BD-LAB5-2025-2/tree/main/PROJETOS/GRUPO-02) |
+---
+
+# 🚀 GRUPO 03
+## Tema: Banco de dados baseado nos microdados do Censo Escolar (INEP)
+
+### 📝 Descrição do Projeto
+Banco de dados baseado nos microdados do Censo Escolar (INEP)
+
+### 👥 Integrantes do Grupo
+* Carlos Henrique Hideki Koti da Silva
+* Gabriel da Silva Pereira
+* Lucas Soares Fabricio
+
+### 📂 Documentação e Arquivos
+- [ ] Modelo Entidade-Relacionamento (MER)
+- [ ] Scripts SQL (.sql)
+- [ ] Documentação Técnica (PDF)
+- [ ] Excel com Dados e Análises
+
+| **GRUPO-03** | 2025.2 | [📂 Repositório ](https://github.com/prof-luis-alexandre/FATEC-BAURU-BD-LAB5-2025-2/tree/main/PROJETOS/GRUPO-03) |
 ---
 *FATEC Bauru - Prof. Luis Alexandre - Semestre 2025.2*
