@@ -8,7 +8,7 @@
 Repositório destinado à entrega do projeto prático da disciplina **LAB 5 - Banco de Dados**.
 
 ### 👥 Integrantes do Grupo
-*  Adrian Bassani Oliveira 
+* Adrian Bassani Oliveira 
 * Gustavo Alves
 * Isabelle Elisa Vicente Fernandes
 
@@ -76,9 +76,10 @@ pontos críticos na cobertura e eficiência do sistema, subsidiando propostas de
 melhoria e otimização do serviço. 
 
 ### 👥 Integrantes do Grupo
-* xx
-* xx
-* xx
+* Gustavo Dare Giglioli Souza
+* Leonardo ColacioNicolau
+* Lyandra de Souza Lima
+* Mile Baptista de Azevedo
 
 ### 📂 Documentação e Arquivos
 - [ ] Modelo Entidade-Relacionamento (MER)
