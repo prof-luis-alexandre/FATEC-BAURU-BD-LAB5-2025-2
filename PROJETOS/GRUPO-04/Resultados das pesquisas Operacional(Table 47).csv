@@ -1,0 +1,1052 @@
+linha,nome,operadora,data_pesquisa,faixa_horaria,passageiros,partidas,passageiros_viagem,tempo_viagem_min
+1,Linha 1.3 (Alto Alegre-Duque/Cerejeiras) PF1-PF2,,11/04/2013,5,22,1,22.0,26
+2,Linha 1.3 (Alto Alegre-Duque/Cerejeiras) PF1-PF2,,11/04/2013,6,142,3,47.3,32
+3,Linha 1.3 (Alto Alegre-Duque/Cerejeiras) PF1-PF2,,11/04/2013,7,78,2,39.0,33
+4,Linha 1.3 (Alto Alegre-Duque/Cerejeiras) PF1-PF2,,11/04/2013,8,64,3,21.3,32
+5,Linha 1.3 (Alto Alegre-Duque/Cerejeiras) PF1-PF2,,11/04/2013,9,39,3,13.0,31
+6,Linha 1.3 (Alto Alegre-Duque/Cerejeiras) PF1-PF2,,11/04/2013,10,28,2,14.0,36
+7,Linha 1.3 (Alto Alegre-Duque/Cerejeiras) PF1-PF2,,11/04/2013,11,37,2,18.5,31
+8,Linha 1.3 (Alto Alegre-Duque/Cerejeiras) PF1-PF2,,11/04/2013,12,88,2,44.0,39
+9,Linha 1.3 (Alto Alegre-Duque/Cerejeiras) PF1-PF2,,11/04/2013,13,44,2,22.0,35
+10,Linha 1.3 (Alto Alegre-Duque/Cerejeiras) PF1-PF2,,11/04/2013,14,24,1,24.0,35
+11,Linha 1.3 (Alto Alegre-Duque/Cerejeiras) PF1-PF2,,11/04/2013,15,38,2,19.0,36
+12,Linha 1.3 (Alto Alegre-Duque/Cerejeiras) PF1-PF2,,11/04/2013,16,16,2,8.0,30
+13,Linha 1.3 (Alto Alegre-Duque/Cerejeiras) PF1-PF2,,11/04/2013,17,51,3,17.0,32
+14,Linha 1.3 (Alto Alegre-Duque/Cerejeiras) PF1-PF2,,11/04/2013,18,36,2,18.0,30
+15,Linha 1.3 (Alto Alegre-Duque/Cerejeiras) PF1-PF2,,11/04/2013,19,15,1,15.0,34
+16,Linha 1.3 (Alto Alegre-Duque/Cerejeiras) PF1-PF2,,11/04/2013,22,22,1,22.0,26
+17,Linha 1.3 (Alto Alegre-Duque/Cerejeiras) PF2-PF1,,11/04/2013,6,32,3,10.7,39
+18,Linha 1.3 (Alto Alegre-Duque/Cerejeiras) PF2-PF1,,11/04/2013,7,34,3,11.3,40
+19,Linha 1.3 (Alto Alegre-Duque/Cerejeiras) PF2-PF1,,11/04/2013,8,11,2,5.5,38
+20,Linha 1.3 (Alto Alegre-Duque/Cerejeiras) PF2-PF1,,11/04/2013,9,75,3,25.0,46
+21,Linha 1.3 (Alto Alegre-Duque/Cerejeiras) PF2-PF1,,11/04/2013,10,42,2,21.0,46
+22,Linha 1.3 (Alto Alegre-Duque/Cerejeiras) PF2-PF1,,11/04/2013,11,38,2,19.0,45
+23,Linha 1.3 (Alto Alegre-Duque/Cerejeiras) PF2-PF1,,11/04/2013,12,62,2,31.0,47
+24,Linha 1.3 (Alto Alegre-Duque/Cerejeiras) PF2-PF1,,11/04/2013,13,32,2,16.0,41
+25,Linha 1.3 (Alto Alegre-Duque/Cerejeiras) PF2-PF1,,11/04/2013,14,16,1,16.0,43
+26,Linha 1.3 (Alto Alegre-Duque/Cerejeiras) PF2-PF1,,11/04/2013,15,92,3,30.7,46
+27,Linha 1.3 (Alto Alegre-Duque/Cerejeiras) PF2-PF1,,11/04/2013,16,73,2,36.5,54
+28,Linha 1.3 (Alto Alegre-Duque/Cerejeiras) PF2-PF1,,11/04/2013,17,132,3,44.0,47
+29,Linha 1.3 (Alto Alegre-Duque/Cerejeiras) PF2-PF1,,11/04/2013,18,68,3,22.7,44
+30,Linha 14 (Redentor/Carolina-Centro) PF1-PF2,Cidade Sem Limites,11/04/2013,6,115,3,38.3,20
+31,Linha 14 (Redentor/Carolina-Centro) PF1-PF2,Cidade Sem Limites,11/04/2013,7,67,2,33.5,24
+32,Linha 14 (Redentor/Carolina-Centro) PF1-PF2,Cidade Sem Limites,11/04/2013,8,24,2,12.0,29
+33,Linha 14 (Redentor/Carolina-Centro) PF1-PF2,Cidade Sem Limites,11/04/2013,9,24,1,24.0,32
+34,Linha 14 (Redentor/Carolina-Centro) PF1-PF2,Cidade Sem Limites,11/04/2013,10,38,2,19.0,33
+35,Linha 14 (Redentor/Carolina-Centro) PF1-PF2,Cidade Sem Limites,11/04/2013,11,24,1,24.0,38
+36,Linha 14 (Redentor/Carolina-Centro) PF1-PF2,Cidade Sem Limites,11/04/2013,12,40,2,20.0,38
+37,Linha 14 (Redentor/Carolina-Centro) PF1-PF2,Cidade Sem Limites,11/04/2013,13,40,2,20.0,42
+38,Linha 14 (Redentor/Carolina-Centro) PF1-PF2,Cidade Sem Limites,11/04/2013,14,73,2,36.5,42
+39,Linha 14 (Redentor/Carolina-Centro) PF1-PF2,Cidade Sem Limites,11/04/2013,15,68,1,68.0,37
+40,Linha 14 (Redentor/Carolina-Centro) PF1-PF2,Cidade Sem Limites,11/04/2013,16,64,2,32.0,30
+41,Linha 14 (Redentor/Carolina-Centro) PF1-PF2,Cidade Sem Limites,11/04/2013,17,124,2,62.0,45
+42,Linha 14 (Redentor/Carolina-Centro) PF1-PF2,Cidade Sem Limites,11/04/2013,18,15,1,15.0,32
+43,Linha 14 (Redentor/Carolina-Centro) PF1-PF2,Cidade Sem Limites,11/04/2013,19,37,2,18.5,29
+44,Linha 14 (Redentor/Carolina-Centro) PF1-PF2,Cidade Sem Limites,11/04/2013,20,74,2,37.0,31
+45,Linha 14 (Redentor/Carolina-Centro) PF1-PF2,Cidade Sem Limites,11/04/2013,22,101,3,33.7,35
+46,Linha 14 (Redentor/Carolina-Centro) PF2-PF1,Cidade Sem Limites,11/04/2013,5,5,1,5.0,27
+47,Linha 14 (Redentor/Carolina-Centro) PF2-PF1,Cidade Sem Limites,11/04/2013,6,49,3,16.3,24
+48,Linha 14 (Redentor/Carolina-Centro) PF2-PF1,Cidade Sem Limites,11/04/2013,7,34,3,11.3,29
+49,Linha 14 (Redentor/Carolina-Centro) PF2-PF1,Cidade Sem Limites,11/04/2013,8,8,2,4.0,28
+50,Linha 14 (Redentor/Carolina-Centro) PF2-PF1,Cidade Sem Limites,11/04/2013,9,22,3,7.3,26
+51,Linha 14 (Redentor/Carolina-Centro) PF2-PF1,Cidade Sem Limites,11/04/2013,10,33,2,16.5,28
+52,Linha 14 (Redentor/Carolina-Centro) PF2-PF1,Cidade Sem Limites,11/04/2013,11,30,2,15.0,28
+53,Linha 14 (Redentor/Carolina-Centro) PF2-PF1,Cidade Sem Limites,11/04/2013,12,52,2,26.0,32
+54,Linha 14 (Redentor/Carolina-Centro) PF2-PF1,Cidade Sem Limites,11/04/2013,13,30,2,15.0,31
+55,Linha 14 (Redentor/Carolina-Centro) PF2-PF1,Cidade Sem Limites,11/04/2013,14,10,1,10.0,28
+56,Linha 14 (Redentor/Carolina-Centro) PF2-PF1,Cidade Sem Limites,11/04/2013,15,27,2,13.5,26
+57,Linha 14 (Redentor/Carolina-Centro) PF2-PF1,Cidade Sem Limites,11/04/2013,16,53,3,17.7,30
+58,Linha 14 (Redentor/Carolina-Centro) PF2-PF1,Cidade Sem Limites,11/04/2013,17,81,3,27.0,31
+59,Linha 14 (Redentor/Carolina-Centro) PF2-PF1,Cidade Sem Limites,11/04/2013,18,68,3,22.7,32
+60,Linha 14 (Redentor/Carolina-Centro) PF2-PF1,Cidade Sem Limites,11/04/2013,19,12,2,6.0,25
+61,Linha 14 (Redentor/Carolina-Centro) PF2-PF1,Cidade Sem Limites,11/04/2013,20,20,1,20.0,22
+62,Linha 14 (Redentor/Carolina-Centro) PF2-PF1,Cidade Sem Limites,11/04/2013,21,15,1,15.0,22
+63,Linha 14 (Redentor/Carolina-Centro) PF2-PF1,Cidade Sem Limites,11/04/2013,22,30,2,15.0,23
+64,Linha 19 (Unip/Makro-Centro) PF1-PF2,,4/04/2013,6,115,3,38.3,20
+65,Linha 19 (Unip/Makro-Centro) PF1-PF2,,4/04/2013,7,67,2,33.5,24
+66,Linha 19 (Unip/Makro-Centro) PF1-PF2,,4/04/2013,8,24,2,12.0,29
+67,Linha 19 (Unip/Makro-Centro) PF1-PF2,,4/04/2013,9,24,1,24.0,32
+68,Linha 19 (Unip/Makro-Centro) PF1-PF2,,4/04/2013,10,38,2,19.0,33
+69,Linha 19 (Unip/Makro-Centro) PF1-PF2,,4/04/2013,11,24,1,24.0,38
+70,Linha 19 (Unip/Makro-Centro) PF1-PF2,,4/04/2013,12,40,2,20.0,38
+71,Linha 19 (Unip/Makro-Centro) PF1-PF2,,4/04/2013,13,40,2,20.0,42
+72,Linha 19 (Unip/Makro-Centro) PF1-PF2,,4/04/2013,14,73,2,36.5,42
+73,Linha 19 (Unip/Makro-Centro) PF1-PF2,,4/04/2013,15,68,1,68.0,37
+74,Linha 19 (Unip/Makro-Centro) PF1-PF2,,4/04/2013,16,64,2,32.0,30
+75,Linha 19 (Unip/Makro-Centro) PF1-PF2,,4/04/2013,17,124,2,62.0,45
+76,Linha 19 (Unip/Makro-Centro) PF1-PF2,,4/04/2013,18,15,1,15.0,32
+77,Linha 19 (Unip/Makro-Centro) PF1-PF2,,4/04/2013,19,37,2,18.5,29
+78,Linha 19 (Unip/Makro-Centro) PF1-PF2,,4/04/2013,20,74,2,37.0,31
+79,Linha 19 (Unip/Makro-Centro) PF1-PF2,,4/04/2013,22,101,3,33.7,35
+80,Linha 19 (Unip/Makro-Centro) PF2-PF1,,4/04/2013,5,104,3,34.7,29
+81,Linha 19 (Unip/Makro-Centro) PF2-PF1,,4/04/2013,6,42,1,42.0,44
+82,Linha 19 (Unip/Makro-Centro) PF2-PF1,,4/04/2013,7,134,2,67.0,37
+83,Linha 19 (Unip/Makro-Centro) PF2-PF1,,4/04/2013,8,86,3,28.7,25
+84,Linha 19 (Unip/Makro-Centro) PF2-PF1,,4/04/2013,9,14,1,14.0,26
+85,Linha 19 (Unip/Makro-Centro) PF2-PF1,,4/04/2013,10,30,2,15.0,27
+86,Linha 19 (Unip/Makro-Centro) PF2-PF1,,4/04/2013,11,14,1,14.0,25
+87,Linha 19 (Unip/Makro-Centro) PF2-PF1,,4/04/2013,12,47,2,23.5,29
+88,Linha 19 (Unip/Makro-Centro) PF2-PF1,,4/04/2013,13,46,1,46.0,30
+89,Linha 19 (Unip/Makro-Centro) PF2-PF1,,4/04/2013,14,45,2,22.5,25
+90,Linha 19 (Unip/Makro-Centro) PF2-PF1,,4/04/2013,15,162,4,40.5,31
+91,Linha 19 (Unip/Makro-Centro) PF2-PF1,,4/04/2013,16,93,3,31.0,26
+92,Linha 19 (Unip/Makro-Centro) PF2-PF1,,4/04/2013,17,67,2,33.5,28
+93,Linha 19 (Unip/Makro-Centro) PF2-PF1,,4/04/2013,18,159,4,39.8,27
+94,Linha 19 (Unip/Makro-Centro) PF2-PF1,,4/04/2013,19,21,2,10.5,23
+95,Linha 19 (Unip/Makro-Centro) PF2-PF1,,4/04/2013,20,11,1,11.0,29
+96,Linha 19 (Unip/Makro-Centro) PF2-PF1,,4/04/2013,21,20,1,20.0,28
+97,Linha 19 (Unip/Makro-Centro) PF2-PF1,,4/04/2013,22,25,1,25.0,27
+98,Linha 19C (Via Jd. Santos Dumont) PF2-PF1,,,,17,48,1,48.0,31
+99,Linha 19D (Prolongamento até a Cral) PF1-PF2,,,,7,58,1,58.0,44
+100,Linha 19D (Prolongamento até a Cral) PF1-PF2,,,,22,25,1,25.0,27
+101,Linha 19D (Prolongamento até a Cral) PF2-PF1,,,,6,43,1,43.0,29
+102,Linha 19D (Prolongamento até a Cral) PF2-PF1,,,,8,8,1,8.0,28
+103,Linha 19D (Prolongamento até a Cral) PF2-PF1,,,,10,15,1,15.0,34
+104,Linha 19D (Prolongamento até a Cral) PF2-PF1,,,,14,20,1,20.0,43
+105,Linha 19D (Prolongamento até a Cral) PF2-PF1,,,,18,15,1,15.0,32
+106,Linha 19F (Residencial Campo Novo) PF1-PF2,,,,10,15,1,15.0,28
+107,Linha 19F (Residencial Campo Novo) PF1-PF2,,,,15,29,1,29.0,22
+108,Linha 19F (Residencial Campo Novo) PF1-PF2,,,,19,12,1,12.0,21
+109,Linha 2.3 (Gerson França/Vânia Maria-Duque/Cerejeiras) PF1-PF2,Grande Bauru,03/04/2013,5,33,1,33.0,27
+110,Linha 2.3 (Gerson França/Vânia Maria-Duque/Cerejeiras) PF1-PF2,Grande Bauru,03/04/2013,6,82,2,41.0,31
+111,Linha 2.3 (Gerson França/Vânia Maria-Duque/Cerejeiras) PF1-PF2,Grande Bauru,03/04/2013,7,123,4,30.8,35
+112,Linha 2.3 (Gerson França/Vânia Maria-Duque/Cerejeiras) PF1-PF2,Grande Bauru,03/04/2013,8,47,2,23.5,36
+113,Linha 2.3 (Gerson França/Vânia Maria-Duque/Cerejeiras) PF1-PF2,Grande Bauru,03/04/2013,9,31,2,15.5,33
+114,Linha 2.3 (Gerson França/Vânia Maria-Duque/Cerejeiras) PF1-PF2,Grande Bauru,03/04/2013,10,55,3,18.3,34
+115,Linha 2.3 (Gerson França/Vânia Maria-Duque/Cerejeiras) PF1-PF2,Grande Bauru,03/04/2013,11,22,2,11.0,29
+116,Linha 2.3 (Gerson França/Vânia Maria-Duque/Cerejeiras) PF1-PF2,Grande Bauru,03/04/2013,12,70,2,35.0,39
+117,Linha 2.3 (Gerson França/Vânia Maria-Duque/Cerejeiras) PF1-PF2,Grande Bauru,03/04/2013,13,77,2,38.5,43
+118,Linha 2.3 (Gerson França/Vânia Maria-Duque/Cerejeiras) PF1-PF2,Grande Bauru,03/04/2013,14,28,2,14.0,35
+119,Linha 2.3 (Gerson França/Vânia Maria-Duque/Cerejeiras) PF1-PF2,Grande Bauru,03/04/2013,15,33,2,16.5,34
+120,Linha 2.3 (Gerson França/Vânia Maria-Duque/Cerejeiras) PF1-PF2,Grande Bauru,03/04/2013,16,33,3,11.0,31
+121,Linha 2.3 (Gerson França/Vânia Maria-Duque/Cerejeiras) PF1-PF2,Grande Bauru,03/04/2013,17,41,3,13.7,34
+122,Linha 2.3 (Gerson França/Vânia Maria-Duque/Cerejeiras) PF1-PF2,Grande Bauru,03/04/2013,18,38,2,19.0,35
+123,Linha 2.3 (Gerson França/Vânia Maria-Duque/Cerejeiras) PF1-PF2,Grande Bauru,03/04/2013,19,11,2,5.5,33
+124,Linha 2.3 (Gerson França/Vânia Maria-Duque/Cerejeiras) PF1-PF2,Grande Bauru,03/04/2013,20,3,1,3.0,29
+125,Linha 2.3 (Gerson França/Vânia Maria-Duque/Cerejeiras) PF1-PF2,Grande Bauru,03/04/2013,21,10,2,5.0,40
+126,Linha 2.3 (Gerson França/Vânia Maria-Duque/Cerejeiras) PF1-PF2,Grande Bauru,03/04/2013,22,6,1,6.0,33
+127,Linha 2.3 (Gerson França/Vânia Maria-Duque/Cerejeiras) PF2-PF1,Grande Bauru,03/04/2013,6,38,3,12.7,42
+128,Linha 2.3 (Gerson França/Vânia Maria-Duque/Cerejeiras) PF2-PF1,Grande Bauru,03/04/2013,7,17,2,8.5,39
+129,Linha 2.3 (Gerson França/Vânia Maria-Duque/Cerejeiras) PF2-PF1,Grande Bauru,03/04/2013,8,17,2,8.5,39
+130,Linha 2.3 (Gerson França/Vânia Maria-Duque/Cerejeiras) PF2-PF1,Grande Bauru,03/04/2013,9,18,2,9.0,42
+131,Linha 2.3 (Gerson França/Vânia Maria-Duque/Cerejeiras) PF2-PF1,Grande Bauru,03/04/2013,10,23,2,11.5,42
+132,Linha 2.3 (Gerson França/Vânia Maria-Duque/Cerejeiras) PF2-PF1,Grande Bauru,03/04/2013,11,48,2,24.0,41
+133,Linha 2.3 (Gerson França/Vânia Maria-Duque/Cerejeiras) PF2-PF1,Grande Bauru,03/04/2013,12,76,3,25.3,40
+134,Linha 2.3 (Gerson França/Vânia Maria-Duque/Cerejeiras) PF2-PF1,Grande Bauru,03/04/2013,13,51,2,25.5,38
+135,Linha 2.3 (Gerson França/Vânia Maria-Duque/Cerejeiras) PF2-PF1,Grande Bauru,03/04/2013,14,81,2,40.5,45
+136,Linha 2.3 (Gerson França/Vânia Maria-Duque/Cerejeiras) PF2-PF1,Grande Bauru,03/04/2013,15,48,2,24.0,48
+137,Linha 2.3 (Gerson França/Vânia Maria-Duque/Cerejeiras) PF2-PF1,Grande Bauru,03/04/2013,16,71,3,23.7,42
+138,Linha 2.3 (Gerson França/Vânia Maria-Duque/Cerejeiras) PF2-PF1,Grande Bauru,03/04/2013,17,110,3,36.7,45
+139,Linha 2.3 (Gerson França/Vânia Maria-Duque/Cerejeiras) PF2-PF1,Grande Bauru,03/04/2013,18,28,2,14.0,46
+140,Linha 2.3 (Gerson França/Vânia Maria-Duque/Cerejeiras) PF2-PF1,Grande Bauru,03/04/2013,19,30,2,15.0,36
+141,Linha 2.3 (Gerson França/Vânia Maria-Duque/Cerejeiras) PF2-PF1,Grande Bauru,03/04/2013,20,25,1,25.0,57
+142,Linha 2.3 (Gerson França/Vânia Maria-Duque/Cerejeiras) PF2-PF1,Grande Bauru,03/04/2013,21,16,1,16.0,32
+143,Linha 2.3 (Gerson França/Vânia Maria-Duque/Cerejeiras) PF2-PF1,Grande Bauru,03/04/2013,22,47,2,23.5,32
+144,Linha 2.3 (Gerson França/Vânia Maria-Duque/Cerejeiras) PF2-PF1,Grande Bauru,03/04/2013,23,10,1,10.0,31
+145,Linha 20 (Vl. São Paulo/Nova Bauru- Centro) PF1-PF2,,3/04/2013,6,109,2,54.5,36
+146,Linha 20 (Vl. São Paulo/Nova Bauru- Centro) PF1-PF2,,3/04/2013,7,151,3,50.3,49
+147,Linha 20 (Vl. São Paulo/Nova Bauru- Centro) PF1-PF2,,3/04/2013,8,47,3,15.7,33
+148,Linha 20 (Vl. São Paulo/Nova Bauru- Centro) PF1-PF2,,3/04/2013,9,13,1,13.0,37
+149,Linha 20 (Vl. São Paulo/Nova Bauru- Centro) PF1-PF2,,3/04/2013,10,27,2,13.5,33
+150,Linha 20 (Vl. São Paulo/Nova Bauru- Centro) PF1-PF2,,3/04/2013,11,36,2,18.0,33
+151,Linha 20 (Vl. São Paulo/Nova Bauru- Centro) PF1-PF2,,3/04/2013,12,66,2,33.0,26
+152,Linha 20 (Vl. São Paulo/Nova Bauru- Centro) PF1-PF2,,3/04/2013,13,66,2,33.0,36
+153,Linha 20 (Vl. São Paulo/Nova Bauru- Centro) PF1-PF2,,3/04/2013,14,33,2,16.5,32
+154,Linha 20 (Vl. São Paulo/Nova Bauru- Centro) PF1-PF2,,3/04/2013,15,10,1,10.0,33
+155,Linha 20 (Vl. São Paulo/Nova Bauru- Centro) PF1-PF2,,3/04/2013,16,29,2,14.5,30
+156,Linha 20 (Vl. São Paulo/Nova Bauru- Centro) PF1-PF2,,3/04/2013,17,26,3,8.7,31
+157,Linha 20 (Vl. São Paulo/Nova Bauru- Centro) PF1-PF2,,3/04/2013,18,19,1,19.0,41
+158,Linha 20 (Vl. São Paulo/Nova Bauru- Centro) PF1-PF2,,3/04/2013,19,10,2,5.0,34
+159,Linha 20 (Vl. São Paulo/Nova Bauru- Centro) PF1-PF2,,3/04/2013,20,10,1,10.0,33
+160,Linha 20 (Vl. São Paulo/Nova Bauru- Centro) PF1-PF2,,3/04/2013,21,27,2,13.5,37
+161,Linha 20 (Vl. São Paulo/Nova Bauru- Centro) PF1-PF2,,3/04/2013,22,10,2,5.0,37
+162,Linha 20 (Vl. São Paulo/Nova Bauru- Centro) PF1-PF2,,3/04/2013,23,2,1,2.0,27
+163,Linha 20 (Vl. São Paulo/Nova Bauru- Centro) PF2-PF1,,3/04/2013,6,25,2,12.5,36
+164,Linha 20 (Vl. São Paulo/Nova Bauru- Centro) PF2-PF1,,3/04/2013,7,27,2,13.5,38
+165,Linha 20 (Vl. São Paulo/Nova Bauru- Centro) PF2-PF1,,3/04/2013,8,86,3,28.7,40
+166,Linha 20 (Vl. São Paulo/Nova Bauru- Centro) PF2-PF1,,3/04/2013,9,19,1,19.0,40
+167,Linha 20 (Vl. São Paulo/Nova Bauru- Centro) PF2-PF1,,3/04/2013,10,70,2,35.0,40
+168,Linha 20 (Vl. São Paulo/Nova Bauru- Centro) PF2-PF1,,3/04/2013,11,31,1,31.0,43
+169,Linha 20 (Vl. São Paulo/Nova Bauru- Centro) PF2-PF1,,3/04/2013,12,142,3,47.3,48
+170,Linha 20 (Vl. São Paulo/Nova Bauru- Centro) PF2-PF1,,3/04/2013,13,131,3,43.7,47
+171,Linha 20 (Vl. São Paulo/Nova Bauru- Centro) PF2-PF1,,3/04/2013,14,91,3,30.3,45
+172,Linha 20 (Vl. São Paulo/Nova Bauru- Centro) PF2-PF1,,3/04/2013,15,17,2,8.5,35
+173,Linha 20 (Vl. São Paulo/Nova Bauru- Centro) PF2-PF1,,3/04/2013,16,10,2,5.0,35
+174,Linha 20 (Vl. São Paulo/Nova Bauru- Centro) PF2-PF1,,3/04/2013,17,15,1,15.0,38
+175,Linha 20 (Vl. São Paulo/Nova Bauru- Centro) PF2-PF1,,3/04/2013,18,6,1,6.0,33
+176,Linha 20 (Vl. São Paulo/Nova Bauru- Centro) PF2-PF1,,3/04/2013,19,8,2,4.0,35
+177,Linha 30 (Geisel-Centro) PF1-PF2,,2/04/2013,6,146,2,73.0,38
+178,Linha 30 (Geisel-Centro) PF1-PF2,,2/04/2013,7,35,2,17.5,35
+179,Linha 30 (Geisel-Centro) PF1-PF2,,2/04/2013,8,11,2,5.5,34
+180,Linha 30 (Geisel-Centro) PF1-PF2,,2/04/2013,9,44,4,11.0,31
+181,Linha 30 (Geisel-Centro) PF1-PF2,,2/04/2013,10,22,2,11.0,31
+182,Linha 30 (Geisel-Centro) PF1-PF2,,2/04/2013,11,59,3,19.7,34
+183,Linha 30 (Geisel-Centro) PF1-PF2,,2/04/2013,12,76,3,25.3,35
+184,Linha 30 (Geisel-Centro) PF1-PF2,,2/04/2013,13,46,2,23.0,37
+185,Linha 30 (Geisel-Centro) PF1-PF2,,2/04/2013,14,20,1,20.0,32
+186,Linha 30 (Geisel-Centro) PF1-PF2,,2/04/2013,15,73,3,24.3,33
+187,Linha 30 (Geisel-Centro) PF1-PF2,,2/04/2013,16,94,3,31.3,36
+188,Linha 30 (Geisel-Centro) PF1-PF2,,2/04/2013,17,150,3,50.0,36
+189,Linha 30 (Geisel-Centro) PF1-PF2,,2/04/2013,18,117,3,39.0,41
+190,Linha 30 (Geisel-Centro) PF1-PF2,,2/04/2013,19,22,2,11.0,30
+191,Linha 30 (Geisel-Centro) PF1-PF2,,2/04/2013,20,78,3,26.0,29
+192,Linha 30 (Geisel-Centro) PF1-PF2,,2/04/2013,21,36,2,18.0,31
+193,Linha 30 (Geisel-Centro) PF1-PF2,,2/04/2013,22,21,2,10.5,28
+194,Linha 30 (Geisel-Centro) PF2-PF1,,2/04/2013,6,61,3,20.3,31
+195,Linha 30 (Geisel-Centro) PF2-PF1,,2/04/2013,7,69,2,34.5,31
+196,Linha 30 (Geisel-Centro) PF2-PF1,,2/04/2013,8,26,1,26.0,26
+197,Linha 30 (Geisel-Centro) PF2-PF1,,2/04/2013,9,27,2,13.5,26
+198,Linha 30 (Geisel-Centro) PF2-PF1,,2/04/2013,10,35,2,17.5,28
+199,Linha 30 (Geisel-Centro) PF2-PF1,,2/04/2013,11,29,2,14.5,25
+200,Linha 30 (Geisel-Centro) PF2-PF1,,2/04/2013,12,47,3,15.7,30
+201,Linha 30 (Geisel-Centro) PF2-PF1,,2/04/2013,13,83,3,27.7,44
+202,Linha 30 (Geisel-Centro) PF2-PF1,,2/04/2013,14,36,2,18.0,31
+203,Linha 30 (Geisel-Centro) PF2-PF1,,2/04/2013,15,28,2,14.0,24
+204,Linha 30 (Geisel-Centro) PF2-PF1,,2/04/2013,16,37,3,12.3,27
+205,Linha 30 (Geisel-Centro) PF2-PF1,,2/04/2013,17,38,3,12.7,30
+206,Linha 30 (Geisel-Centro) PF2-PF1,,2/04/2013,18,56,3,18.7,30
+207,Linha 30 (Geisel-Centro) PF2-PF1,,2/04/2013,19,10,2,5.0,35
+208,Linha 30 (Geisel-Centro) PF2-PF1,,2/04/2013,20,5,3,1.7,26
+209,Linha 30 (Geisel-Centro) PF2-PF1,,2/04/2013,21,2,1,2.0,21
+210,Linha 30 (Geisel-Centro) PF2-PF1,,2/04/2013,22,21,2,10.5,36
+211,Linha 30 (Geisel-Centro) PF2-PF1,,2/04/2013,23,5,1,5.0,21
+212,Linha 30A (Via Cruzeiro do Sul) PF2-PF1,,,,12,23,1,23.0,29
+213,Linha 30A (Via Cruzeiro do Sul) PF2-PF1,,,,18,16,1,16.0,31
+214,Linha 30B (Prolongado até a Sorri) PF1-PF2,,,,7,31,1,31.0,39
+215,Linha 33 (Gasparini/Vanuire-Centro) PF1-PF2,Cidade Sem Limites,11/04/2013,6,129,3,43.0,41
+216,Linha 33 (Gasparini/Vanuire-Centro) PF1-PF2,Cidade Sem Limites,11/04/2013,7,106,4,26.5,28
+217,Linha 33 (Gasparini/Vanuire-Centro) PF1-PF2,Cidade Sem Limites,11/04/2013,8,48,3,16.0,26
+218,Linha 33 (Gasparini/Vanuire-Centro) PF1-PF2,Cidade Sem Limites,11/04/2013,9,33,2,16.5,27
+219,Linha 33 (Gasparini/Vanuire-Centro) PF1-PF2,Cidade Sem Limites,11/04/2013,10,30,3,10.0,25
+220,Linha 33 (Gasparini/Vanuire-Centro) PF1-PF2,Cidade Sem Limites,11/04/2013,11,37,2,18.5,49
+221,Linha 33 (Gasparini/Vanuire-Centro) PF1-PF2,Cidade Sem Limites,11/04/2013,12,42,2,21.0,25
+222,Linha 33 (Gasparini/Vanuire-Centro) PF1-PF2,Cidade Sem Limites,11/04/2013,13,46,2,23.0,27
+223,Linha 33 (Gasparini/Vanuire-Centro) PF1-PF2,Cidade Sem Limites,11/04/2013,14,41,3,13.7,26
+224,Linha 33 (Gasparini/Vanuire-Centro) PF1-PF2,Cidade Sem Limites,11/04/2013,15,16,2,8.0,32
+225,Linha 33 (Gasparini/Vanuire-Centro) PF1-PF2,Cidade Sem Limites,11/04/2013,16,24,3,8.0,26
+226,Linha 33 (Gasparini/Vanuire-Centro) PF1-PF2,Cidade Sem Limites,11/04/2013,17,17,2,8.5,26
+227,Linha 33 (Gasparini/Vanuire-Centro) PF1-PF2,Cidade Sem Limites,11/04/2013,18,36,2,18.0,29
+228,Linha 33 (Gasparini/Vanuire-Centro) PF1-PF2,Cidade Sem Limites,11/04/2013,19,26,2,13.0,30
+229,Linha 33 (Gasparini/Vanuire-Centro) PF1-PF2,Cidade Sem Limites,11/04/2013,20,47,3,15.7,33
+230,Linha 33 (Gasparini/Vanuire-Centro) PF1-PF2,Cidade Sem Limites,11/04/2013,21,18,2,9.0,30
+231,Linha 33 (Gasparini/Vanuire-Centro) PF1-PF2,Cidade Sem Limites,11/04/2013,22,21,3,7.0,29
+232,Linha 33 (Gasparini/Vanuire-Centro) PF2-PF1,Cidade Sem Limites,11/04/2013,6,46,2,23.0,34
+233,Linha 33 (Gasparini/Vanuire-Centro) PF2-PF1,Cidade Sem Limites,11/04/2013,7,32,3,10.7,32
+234,Linha 33 (Gasparini/Vanuire-Centro) PF2-PF1,Cidade Sem Limites,11/04/2013,8,22,3,7.3,37
+235,Linha 33 (Gasparini/Vanuire-Centro) PF2-PF1,Cidade Sem Limites,11/04/2013,9,26,2,13.0,32
+236,Linha 33 (Gasparini/Vanuire-Centro) PF2-PF1,Cidade Sem Limites,11/04/2013,10,29,2,14.5,33
+237,Linha 33 (Gasparini/Vanuire-Centro) PF2-PF1,Cidade Sem Limites,11/04/2013,11,31,2,15.5,38
+238,Linha 33 (Gasparini/Vanuire-Centro) PF2-PF1,Cidade Sem Limites,11/04/2013,12,96,2,48.0,48
+239,Linha 33 (Gasparini/Vanuire-Centro) PF2-PF1,Cidade Sem Limites,11/04/2013,13,70,3,23.3,34
+240,Linha 33 (Gasparini/Vanuire-Centro) PF2-PF1,Cidade Sem Limites,11/04/2013,14,38,2,19.0,37
+241,Linha 33 (Gasparini/Vanuire-Centro) PF2-PF1,Cidade Sem Limites,11/04/2013,15,112,3,37.3,40
+242,Linha 33 (Gasparini/Vanuire-Centro) PF2-PF1,Cidade Sem Limites,11/04/2013,16,124,3,41.3,40
+243,Linha 33 (Gasparini/Vanuire-Centro) PF2-PF1,Cidade Sem Limites,11/04/2013,17,202,4,50.5,42
+244,Linha 33 (Gasparini/Vanuire-Centro) PF2-PF1,Cidade Sem Limites,11/04/2013,18,130,3,43.3,35
+245,Linha 33 (Gasparini/Vanuire-Centro) PF2-PF1,Cidade Sem Limites,11/04/2013,19,50,3,16.7,32
+246,Linha 33 (Gasparini/Vanuire-Centro) PF2-PF1,Cidade Sem Limites,11/04/2013,20,34,2,17.0,32
+247,Linha 33 (Gasparini/Vanuire-Centro) PF2-PF1,Cidade Sem Limites,11/04/2013,21,36,3,12.0,31
+248,Linha 33 (Gasparini/Vanuire-Centro) PF2-PF1,Cidade Sem Limites,11/04/2013,22,26,2,13.0,32
+249,Linha 33 (Gasparini/Vanuire-Centro) PF2-PF1,Cidade Sem Limites,11/04/2013,23,12,2,6.0,28
+250,Linha 33A (Via Av. Moussa Tobias) PF2-PF1,,,,6,27,1,27.0,33
+251,Linha 33A (Via Av. Moussa Tobias) PF2-PF1,,,,7,23,2,11.5,33
+252,Linha 33A (Via Av. Moussa Tobias) PF2-PF1,,,,12,31,1,31.0,30
+253,Linha 33A (Via Av. Moussa Tobias) PF2-PF1,,,,17,124,2,62.0,45
+254,Linha 33A (Via Av. Moussa Tobias) PF2-PF1,,,,18,116,2,58.0,37
+255,Linha 46 (Mary Dota-Centro) PF1-PF2,Grande Bauru,3/04/2013,6,190,5,38.0,32
+256,Linha 46 (Mary Dota-Centro) PF1-PF2,Grande Bauru,3/04/2013,7,111,3,37.0,35
+257,Linha 46 (Mary Dota-Centro) PF1-PF2,Grande Bauru,3/04/2013,8,65,3,21.7,29
+258,Linha 46 (Mary Dota-Centro) PF1-PF2,Grande Bauru,3/04/2013,9,39,3,13.0,28
+259,Linha 46 (Mary Dota-Centro) PF1-PF2,Grande Bauru,3/04/2013,10,51,3,17.0,29
+260,Linha 46 (Mary Dota-Centro) PF1-PF2,Grande Bauru,3/04/2013,11,46,2,23.0,31
+261,Linha 46 (Mary Dota-Centro) PF1-PF2,Grande Bauru,3/04/2013,12,26,1,26.0,32
+262,Linha 46 (Mary Dota-Centro) PF1-PF2,Grande Bauru,3/04/2013,13,85,3,28.3,33
+263,Linha 46 (Mary Dota-Centro) PF1-PF2,Grande Bauru,3/04/2013,14,28,2,14.0,31
+264,Linha 46 (Mary Dota-Centro) PF1-PF2,Grande Bauru,3/04/2013,15,39,2,19.5,32
+265,Linha 46 (Mary Dota-Centro) PF1-PF2,Grande Bauru,3/04/2013,16,36,2,18.0,32
+266,Linha 46 (Mary Dota-Centro) PF1-PF2,Grande Bauru,3/04/2013,17,71,3,23.7,34
+267,Linha 46 (Mary Dota-Centro) PF1-PF2,Grande Bauru,3/04/2013,18,29,2,14.5,32
+268,Linha 46 (Mary Dota-Centro) PF1-PF2,Grande Bauru,3/04/2013,19,19,4,4.8,25
+269,Linha 46 (Mary Dota-Centro) PF1-PF2,Grande Bauru,3/04/2013,20,3,1,3.0,25
+270,Linha 46 (Mary Dota-Centro) PF1-PF2,Grande Bauru,3/04/2013,21,4,1,4.0,28
+271,Linha 46 (Mary Dota-Centro) PF1-PF2,Grande Bauru,3/04/2013,22,6,1,6.0,35
+272,Linha 46 (Mary Dota-Centro) PF2-PF1,Grande Bauru,3/04/2013,6,56,3,18.7,26
+273,Linha 46 (Mary Dota-Centro) PF2-PF1,Grande Bauru,3/04/2013,7,50,4,12.5,27
+274,Linha 46 (Mary Dota-Centro) PF2-PF1,Grande Bauru,3/04/2013,8,14,2,7.0,30
+275,Linha 46 (Mary Dota-Centro) PF2-PF1,Grande Bauru,3/04/2013,9,19,3,6.3,31
+276,Linha 46 (Mary Dota-Centro) PF2-PF1,Grande Bauru,3/04/2013,10,24,2,12.0,35
+277,Linha 46 (Mary Dota-Centro) PF2-PF1,Grande Bauru,3/04/2013,11,22,2,11.0,36
+278,Linha 46 (Mary Dota-Centro) PF2-PF1,Grande Bauru,3/04/2013,12,35,2,17.5,35
+279,Linha 46 (Mary Dota-Centro) PF2-PF1,Grande Bauru,3/04/2013,13,40,2,20.0,34
+280,Linha 46 (Mary Dota-Centro) PF2-PF1,Grande Bauru,3/04/2013,14,48,2,24.0,35
+281,Linha 46 (Mary Dota-Centro) PF2-PF1,Grande Bauru,3/04/2013,15,59,2,29.5,39
+282,Linha 46 (Mary Dota-Centro) PF2-PF1,Grande Bauru,3/04/2013,16,72,2,36.0,39
+283,Linha 46 (Mary Dota-Centro) PF2-PF1,Grande Bauru,3/04/2013,17,90,3,30.0,41
+284,Linha 46 (Mary Dota-Centro) PF2-PF1,Grande Bauru,3/04/2013,18,82,3,27.3,43
+285,Linha 46 (Mary Dota-Centro) PF2-PF1,Grande Bauru,3/04/2013,19,26,2,13.0,37
+286,Linha 46 (Mary Dota-Centro) PF2-PF1,Grande Bauru,3/04/2013,20,42,2,21.0,33
+287,Linha 46 (Mary Dota-Centro) PF2-PF1,Grande Bauru,3/04/2013,21,31,2,15.5,38
+288,Linha 46 (Mary Dota-Centro) PF2-PF1,Grande Bauru,3/04/2013,22,32,1,32.0,38
+289,Linha 46 (Mary Dota-Centro) PF2-PF1,Grande Bauru,3/04/2013,23,20,2,10.0,28
+290,Linha 66 (Pq. City - Centro) PF1-PF2,,3/04/2013,6,17,1,17.0,27
+291,Linha 66 (Pq. City - Centro) PF1-PF2,,3/04/2013,7,22,1,22.0,26
+292,Linha 66 (Pq. City - Centro) PF1-PF2,,3/04/2013,8,5,1,5.0,26
+293,Linha 66 (Pq. City - Centro) PF1-PF2,,3/04/2013,9,11,1,11.0,29
+294,Linha 66 (Pq. City - Centro) PF1-PF2,,3/04/2013,10,8,1,8.0,26
+295,Linha 66 (Pq. City - Centro) PF1-PF2,,3/04/2013,11,6,1,6.0,27
+296,Linha 66 (Pq. City - Centro) PF1-PF2,,3/04/2013,12,10,1,10.0,32
+297,Linha 66 (Pq. City - Centro) PF1-PF2,,3/04/2013,13,25,1,25.0,32
+298,Linha 66 (Pq. City - Centro) PF1-PF2,,3/04/2013,14,10,1,10.0,27
+299,Linha 66 (Pq. City - Centro) PF1-PF2,,3/04/2013,15,4,1,4.0,25
+300,Linha 66 (Pq. City - Centro) PF1-PF2,,3/04/2013,16,7,1,7.0,32
+301,Linha 66 (Pq. City - Centro) PF1-PF2,,3/04/2013,17,4,1,4.0,28
+302,Linha 66 (Pq. City - Centro) PF1-PF2,,3/04/2013,18,9,1,9.0,25
+303,Linha 66 (Pq. City - Centro) PF1-PF2,,3/04/2013,19,1,1,1.0,31
+304,Linha 66 (Pq. City - Centro) PF1-PF2,,3/04/2013,20,1,1,1.0,21
+305,Linha 66 (Pq. City - Centro) PF1-PF2,,3/04/2013,21,3,1,3.0,20
+306,Linha 66 (Pq. City - Centro) PF1-PF2,,3/04/2013,22,1,1,1.0,17
+307,Linha 66 (Pq. City - Centro) PF2-PF1,,3/04/2013,6,9,1,9.0,24
+308,Linha 66 (Pq. City - Centro) PF2-PF1,,3/04/2013,7,10,1,10.0,27
+309,Linha 66 (Pq. City - Centro) PF2-PF1,,3/04/2013,8,1,1,1.0,30
+310,Linha 66 (Pq. City - Centro) PF2-PF1,,3/04/2013,9,1,1,1.0,31
+311,Linha 66 (Pq. City - Centro) PF2-PF1,,3/04/2013,10,7,1,7.0,25
+312,Linha 66 (Pq. City - Centro) PF2-PF1,,3/04/2013,11,6,1,6.0,33
+313,Linha 66 (Pq. City - Centro) PF2-PF1,,3/04/2013,12,7,1,7.0,27
+314,Linha 66 (Pq. City - Centro) PF2-PF1,,3/04/2013,13,5,1,5.0,29
+315,Linha 66 (Pq. City - Centro) PF2-PF1,,3/04/2013,14,13,1,13.0,31
+316,Linha 66 (Pq. City - Centro) PF2-PF1,,3/04/2013,15,20,1,20.0,35
+317,Linha 66 (Pq. City - Centro) PF2-PF1,,3/04/2013,16,26,1,26.0,36
+318,Linha 66 (Pq. City - Centro) PF2-PF1,,3/04/2013,18,38,1,38.0,34
+319,Linha 66 (Pq. City - Centro) PF2-PF1,,3/04/2013,19,13,1,13.0,30
+320,Linha 66 (Pq. City - Centro) PF2-PF1,,3/04/2013,20,16,1,16.0,25
+321,Linha 66 (Pq. City - Centro) PF2-PF1,,3/04/2013,21,15,1,15.0,25
+322,Linha 66 (Pq. City - Centro) PF2-PF1,,3/04/2013,22,14,1,14.0,24
+323,Linha 75 (Quinta Bela Olinda - Centro) PF1-PF2,Grande Bauru,4/04/2013,6,56,1,56.0,46
+324,Linha 75 (Quinta Bela Olinda - Centro) PF1-PF2,Grande Bauru,4/04/2013,7,34,1,34.0,33
+325,Linha 75 (Quinta Bela Olinda - Centro) PF1-PF2,Grande Bauru,4/04/2013,9,12,1,12.0,36
+326,Linha 75 (Quinta Bela Olinda - Centro) PF1-PF2,Grande Bauru,4/04/2013,11,25,1,25.0,36
+327,Linha 75 (Quinta Bela Olinda - Centro) PF1-PF2,Grande Bauru,4/04/2013,12,22,1,22.0,38
+328,Linha 75 (Quinta Bela Olinda - Centro) PF1-PF2,Grande Bauru,4/04/2013,13,15,1,15.0,40
+329,Linha 75 (Quinta Bela Olinda - Centro) PF1-PF2,Grande Bauru,4/04/2013,14,26,1,26.0,40
+330,Linha 75 (Quinta Bela Olinda - Centro) PF1-PF2,Grande Bauru,4/04/2013,15,26,1,26.0,44
+331,Linha 75 (Quinta Bela Olinda - Centro) PF1-PF2,Grande Bauru,4/04/2013,16,44,1,44.0,42
+332,Linha 75 (Quinta Bela Olinda - Centro) PF1-PF2,Grande Bauru,4/04/2013,18,34,1,34.0,44
+333,Linha 75 (Quinta Bela Olinda - Centro) PF1-PF2,Grande Bauru,4/04/2013,20,15,1,15.0,42
+334,Linha 75 (Quinta Bela Olinda - Centro) PF1-PF2,Grande Bauru,4/04/2013,21,12,1,12.0,42
+335,Linha 75 (Quinta Bela Olinda - Centro) PF1-PF2,Grande Bauru,4/04/2013,22,12,1,12.0,42
+336,Linha 75 (Quinta Bela Olinda - Centro) PF2-PF1,Grande Bauru,4/04/2013,6,34,1,34.0,38
+337,Linha 75 (Quinta Bela Olinda - Centro) PF2-PF1,Grande Bauru,4/04/2013,7,36,1,36.0,40
+338,Linha 75 (Quinta Bela Olinda - Centro) PF2-PF1,Grande Bauru,4/04/2013,8,4,1,4.0,43
+339,Linha 75 (Quinta Bela Olinda - Centro) PF2-PF1,Grande Bauru,4/04/2013,10,15,1,15.0,43
+340,Linha 75 (Quinta Bela Olinda - Centro) PF2-PF1,Grande Bauru,4/04/2013,11,26,1,26.0,44
+341,Linha 75 (Quinta Bela Olinda - Centro) PF2-PF1,Grande Bauru,4/04/2013,13,25,1,25.0,44
+342,Linha 75 (Quinta Bela Olinda - Centro) PF2-PF1,Grande Bauru,4/04/2013,15,8,1,8.0,31
+343,Linha 75 (Quinta Bela Olinda - Centro) PF2-PF1,Grande Bauru,4/04/2013,16,12,1,12.0,34
+344,Linha 75 (Quinta Bela Olinda - Centro) PF2-PF1,Grande Bauru,4/04/2013,17,17,1,17.0,37
+345,Linha 75 (Quinta Bela Olinda - Centro) PF2-PF1,Grande Bauru,4/04/2013,19,6,1,6.0,33
+346,Linha 75 (Quinta Bela Olinda - Centro) PF2-PF1,Grande Bauru,4/04/2013,20,12,1,12.0,42
+347,Linha 75 (Quinta Bela Olinda - Centro) PF2-PF1,Grande Bauru,4/04/2013,22,22,1,22.0,42
+348,Linha 75 (Quinta Bela Olinda - Centro) PF2-PF1,Grande Bauru,4/04/2013,23,10,1,10.0,42
+349,Linha 77 (Tangarás-Centro) PF1-PF2,Cidade Sem Limites,16/04/2013,5,99,2,49.5,42
+350,Linha 77 (Tangarás-Centro) PF1-PF2,Cidade Sem Limites,16/04/2013,6,51,1,51.0,40
+351,Linha 77 (Tangarás-Centro) PF1-PF2,Cidade Sem Limites,16/04/2013,7,137,3,45.7,45
+352,Linha 77 (Tangarás-Centro) PF1-PF2,Cidade Sem Limites,16/04/2013,8,27,1,27.0,41
+353,Linha 77 (Tangarás-Centro) PF1-PF2,Cidade Sem Limites,16/04/2013,9,40,2,20.0,37
+354,Linha 77 (Tangarás-Centro) PF1-PF2,Cidade Sem Limites,16/04/2013,10,53,2,26.5,40
+355,Linha 77 (Tangarás-Centro) PF1-PF2,Cidade Sem Limites,16/04/2013,11,112,2,56.0,46
+356,Linha 77 (Tangarás-Centro) PF1-PF2,Cidade Sem Limites,16/04/2013,12,84,2,42.0,57
+357,Linha 77 (Tangarás-Centro) PF1-PF2,Cidade Sem Limites,16/04/2013,13,34,1,34.0,42
+358,Linha 77 (Tangarás-Centro) PF1-PF2,Cidade Sem Limites,16/04/2013,14,44,2,22.0,37
+359,Linha 77 (Tangarás-Centro) PF1-PF2,Cidade Sem Limites,16/04/2013,15,31,1,31.0,37
+360,Linha 77 (Tangarás-Centro) PF1-PF2,Cidade Sem Limites,16/04/2013,16,24,1,24.0,44
+361,Linha 77 (Tangarás-Centro) PF1-PF2,Cidade Sem Limites,16/04/2013,17,26,1,26.0,46
+362,Linha 77 (Tangarás-Centro) PF1-PF2,Cidade Sem Limites,16/04/2013,18,83,2,41.5,43
+363,Linha 77 (Tangarás-Centro) PF1-PF2,Cidade Sem Limites,16/04/2013,19,22,1,22.0,33
+364,Linha 77 (Tangarás-Centro) PF1-PF2,Cidade Sem Limites,16/04/2013,20,16,2,8.0,40
+365,Linha 77 (Tangarás-Centro) PF1-PF2,Cidade Sem Limites,16/04/2013,21,5,1,5.0,38
+366,Linha 77 (Tangarás-Centro) PF2-PF1,Cidade Sem Limites,16/04/2013,6,38,2,19.0,51
+367,Linha 77 (Tangarás-Centro) PF2-PF1,Cidade Sem Limites,16/04/2013,7,22,1,22.0,37
+368,Linha 77 (Tangarás-Centro) PF2-PF1,Cidade Sem Limites,16/04/2013,8,69,3,23.0,38
+369,Linha 77 (Tangarás-Centro) PF2-PF1,Cidade Sem Limites,16/04/2013,9,27,2,13.5,38
+370,Linha 77 (Tangarás-Centro) PF2-PF1,Cidade Sem Limites,16/04/2013,10,15,1,15.0,36
+371,Linha 77 (Tangarás-Centro) PF2-PF1,Cidade Sem Limites,16/04/2013,11,52,2,26.0,35
+372,Linha 77 (Tangarás-Centro) PF2-PF1,Cidade Sem Limites,16/04/2013,12,46,2,23.0,33
+373,Linha 77 (Tangarás-Centro) PF2-PF1,Cidade Sem Limites,16/04/2013,13,64,2,32.0,59
+374,Linha 77 (Tangarás-Centro) PF2-PF1,Cidade Sem Limites,16/04/2013,14,40,1,40.0,63
+375,Linha 77 (Tangarás-Centro) PF2-PF1,Cidade Sem Limites,16/04/2013,15,49,1,49.0,68
+376,Linha 77 (Tangarás-Centro) PF2-PF1,Cidade Sem Limites,16/04/2013,16,53,1,53.0,64
+377,Linha 77 (Tangarás-Centro) PF2-PF1,Cidade Sem Limites,16/04/2013,17,111,2,55.5,59
+378,Linha 77 (Tangarás-Centro) PF2-PF1,Cidade Sem Limites,16/04/2013,18,112,2,56.0,60
+379,Linha 77 (Tangarás-Centro) PF2-PF1,Cidade Sem Limites,16/04/2013,19,17,1,17.0,48
+380,Linha 77 (Tangarás-Centro) PF2-PF1,Cidade Sem Limites,16/04/2013,20,40,2,20.0,48
+381,Linha 77 (Tangarás-Centro) PF2-PF1,Cidade Sem Limites,16/04/2013,21,34,1,34.0,50
+382,Linha 77 (Tangarás-Centro) PF2-PF1,Cidade Sem Limites,16/04/2013,22,27,1,27.0,44
+383,Linha 77A (Tangarás-Centro) PF1-PF2,,,,5,72,1,72.0,47
+384,Linha 77A (Tangarás-Centro) PF1-PF2,,,,11,94,1,94.0,52
+385,Linha 82 (Nobuji Nagasawa-Centro) PF1-PF2,Cidade Sem Limites,11/04/2013,5,31,1,31.0,27
+386,Linha 82 (Nobuji Nagasawa-Centro) PF1-PF2,Cidade Sem Limites,11/04/2013,6,255,4,63.8,45
+387,Linha 82 (Nobuji Nagasawa-Centro) PF1-PF2,Cidade Sem Limites,11/04/2013,7,125,3,41.7,31
+388,Linha 82 (Nobuji Nagasawa-Centro) PF1-PF2,Cidade Sem Limites,11/04/2013,8,94,4,23.5,29
+389,Linha 82 (Nobuji Nagasawa-Centro) PF1-PF2,Cidade Sem Limites,11/04/2013,9,77,3,25.7,30
+390,Linha 82 (Nobuji Nagasawa-Centro) PF1-PF2,Cidade Sem Limites,11/04/2013,10,75,4,18.8,44
+391,Linha 82 (Nobuji Nagasawa-Centro) PF1-PF2,Cidade Sem Limites,11/04/2013,11,16,1,16.0,29
+392,Linha 82 (Nobuji Nagasawa-Centro) PF1-PF2,Cidade Sem Limites,11/04/2013,12,133,5,26.6,31
+393,Linha 82 (Nobuji Nagasawa-Centro) PF1-PF2,Cidade Sem Limites,11/04/2013,13,109,3,36.3,36
+394,Linha 82 (Nobuji Nagasawa-Centro) PF1-PF2,Cidade Sem Limites,11/04/2013,14,51,2,25.5,33
+395,Linha 82 (Nobuji Nagasawa-Centro) PF1-PF2,Cidade Sem Limites,11/04/2013,15,11,2,5.5,28
+396,Linha 82 (Nobuji Nagasawa-Centro) PF1-PF2,Cidade Sem Limites,11/04/2013,16,28,3,9.3,29
+397,Linha 82 (Nobuji Nagasawa-Centro) PF1-PF2,Cidade Sem Limites,11/04/2013,17,69,4,17.3,34
+398,Linha 82 (Nobuji Nagasawa-Centro) PF1-PF2,Cidade Sem Limites,11/04/2013,18,49,4,12.3,31
+399,Linha 82 (Nobuji Nagasawa-Centro) PF1-PF2,Cidade Sem Limites,11/04/2013,19,12,1,12.0,27
+400,Linha 82 (Nobuji Nagasawa-Centro) PF2-PF1,Cidade Sem Limites,11/04/2013,6,28,3,9.3,30
+401,Linha 82 (Nobuji Nagasawa-Centro) PF2-PF1,Cidade Sem Limites,11/04/2013,7,32,2,16.0,35
+402,Linha 82 (Nobuji Nagasawa-Centro) PF2-PF1,Cidade Sem Limites,11/04/2013,8,26,3,8.7,32
+403,Linha 82 (Nobuji Nagasawa-Centro) PF2-PF1,Cidade Sem Limites,11/04/2013,9,37,3,12.3,32
+404,Linha 82 (Nobuji Nagasawa-Centro) PF2-PF1,Cidade Sem Limites,11/04/2013,10,28,2,14.0,36
+405,Linha 82 (Nobuji Nagasawa-Centro) PF2-PF1,Cidade Sem Limites,11/04/2013,11,86,4,21.5,35
+406,Linha 82 (Nobuji Nagasawa-Centro) PF2-PF1,Cidade Sem Limites,11/04/2013,12,106,4,26.5,32
+407,Linha 82 (Nobuji Nagasawa-Centro) PF2-PF1,Cidade Sem Limites,11/04/2013,13,124,4,31.0,32
+408,Linha 82 (Nobuji Nagasawa-Centro) PF2-PF1,Cidade Sem Limites,11/04/2013,14,42,2,21.0,35
+409,Linha 82 (Nobuji Nagasawa-Centro) PF2-PF1,Cidade Sem Limites,11/04/2013,15,129,3,43.0,37
+410,Linha 82 (Nobuji Nagasawa-Centro) PF2-PF1,Cidade Sem Limites,11/04/2013,16,186,4,46.5,39
+411,Linha 82 (Nobuji Nagasawa-Centro) PF2-PF1,Cidade Sem Limites,11/04/2013,17,235,4,58.8,41
+412,Linha 82 (Nobuji Nagasawa-Centro) PF2-PF1,Cidade Sem Limites,11/04/2013,18,147,4,36.8,37
+413,Linha 84 (Dist. Indust. II-Centro) PF1-PF2,,16/04/2013,16,65,2,32.5,0
+414,Linha 84 (Dist. Indust. II-Centro) PF2-PF1,,16/04/2013,6,57,1,57.0,39
+415,Linha 96 (Tibiriçá-Centro) PF1-PF2,,4/04/2013,7,29,1,29.0,39
+416,Linha 96 (Tibiriçá-Centro) PF1-PF2,,4/04/2013,9,13,1,13.0,35
+417,Linha 96 (Tibiriçá-Centro) PF1-PF2,,4/04/2013,11,18,1,18.0,40
+418,Linha 96 (Tibiriçá-Centro) PF1-PF2,,4/04/2013,13,15,1,15.0,39
+419,Linha 96 (Tibiriçá-Centro) PF1-PF2,,4/04/2013,15,5,1,5.0,31
+420,Linha 96 (Tibiriçá-Centro) PF1-PF2,,4/04/2013,16,7,1,7.0,34
+421,Linha 96 (Tibiriçá-Centro) PF1-PF2,,4/04/2013,17,10,1,10.0,39
+422,Linha 96 (Tibiriçá-Centro) PF2-PF1,,4/04/2013,6,23,1,23.0,57
+423,Linha 96 (Tibiriçá-Centro) PF2-PF1,,4/04/2013,8,9,1,9.0,40
+424,Linha 96 (Tibiriçá-Centro) PF2-PF1,,4/04/2013,10,8,1,8.0,39
+425,Linha 96 (Tibiriçá-Centro) PF2-PF1,,4/04/2013,11,29,1,29.0,47
+426,Linha 96 (Tibiriçá-Centro) PF2-PF1,,4/04/2013,13,21,1,21.0,44
+427,Linha 96 (Tibiriçá-Centro) PF2-PF1,,4/04/2013,15,40,1,40.0,63
+428,Linha 96 (Tibiriçá-Centro) PF2-PF1,,4/04/2013,16,48,1,48.0,48
+429,Linha 96 (Tibiriçá-Centro) PF2-PF1,,4/04/2013,17,26,1,26.0,44
+430,Linha 96 (Tibiriçá-Centro) PF2-PF1,,4/04/2013,18,56,2,28.0,57
+431,Linha 96A (Prolongado até o Bairro Reunidos de Sta. Maria) PF2-PF1,,,,6,23,1,23.0,57
+432,Linha 96A (Prolongado até o Bairro Reunidos de Sta. Maria) PF2-PF1,,,,15,40,1,40.0,63
+433,Linha 96A (Prolongado até o Bairro Reunidos de Sta. Maria) PF2-PF1,,,,18,16,1,16.0,53
+434,Linha 97 (Bauru Especial) Circular,Operação Pool,9/04/2013,6,86,1,86.0,122
+435,Linha 97 (Bauru Especial) Circular,Operação Pool,9/04/2013,7,89,2,44.5,123
+436,Linha 97 (Bauru Especial) Circular,Operação Pool,9/04/2013,8,21,1,21.0,105
+437,Linha 97 (Bauru Especial) Circular,Operação Pool,9/04/2013,9,24,1,24.0,114
+438,Linha 97 (Bauru Especial) Circular,Operação Pool,9/04/2013,10,62,2,31.0,117
+439,Linha 97 (Bauru Especial) Circular,Operação Pool,9/04/2013,11,78,1,78.0,128
+440,Linha 97 (Bauru Especial) Circular,Operação Pool,9/04/2013,12,65,1,65.0,123
+441,Linha 97 (Bauru Especial) Circular,Operação Pool,9/04/2013,13,64,2,32.0,125
+442,Linha 97 (Bauru Especial) Circular,Operação Pool,9/04/2013,14,38,1,38.0,128
+443,Linha 97 (Bauru Especial) Circular,Operação Pool,9/04/2013,15,84,2,42.0,128
+444,Linha 97 (Bauru Especial) Circular,Operação Pool,9/04/2013,16,63,1,63.0,133
+445,Linha 97 (Bauru Especial) Circular,Operação Pool,9/04/2013,17,59,1,59.0,128
+446,Linha 98 (Stª Terezinha/Inst. Lauro S. Lima/UNIMED-Centro) PF1-PF2,,4/04/2013,5,23,1,23.0,42
+447,Linha 98 (Stª Terezinha/Inst. Lauro S. Lima/UNIMED-Centro) PF1-PF2,,4/04/2013,6,141,2,70.5,51
+448,Linha 98 (Stª Terezinha/Inst. Lauro S. Lima/UNIMED-Centro) PF1-PF2,,4/04/2013,7,71,2,35.5,47
+449,Linha 98 (Stª Terezinha/Inst. Lauro S. Lima/UNIMED-Centro) PF1-PF2,,4/04/2013,8,13,1,13.0,45
+450,Linha 98 (Stª Terezinha/Inst. Lauro S. Lima/UNIMED-Centro) PF1-PF2,,4/04/2013,9,16,1,16.0,43
+451,Linha 98 (Stª Terezinha/Inst. Lauro S. Lima/UNIMED-Centro) PF1-PF2,,4/04/2013,10,18,1,18.0,42
+452,Linha 98 (Stª Terezinha/Inst. Lauro S. Lima/UNIMED-Centro) PF1-PF2,,4/04/2013,11,57,2,28.5,45
+453,Linha 98 (Stª Terezinha/Inst. Lauro S. Lima/UNIMED-Centro) PF1-PF2,,4/04/2013,12,34,1,34.0,50
+454,Linha 98 (Stª Terezinha/Inst. Lauro S. Lima/UNIMED-Centro) PF1-PF2,,4/04/2013,13,45,2,22.5,40
+455,Linha 98 (Stª Terezinha/Inst. Lauro S. Lima/UNIMED-Centro) PF1-PF2,,4/04/2013,14,25,1,25.0,38
+456,Linha 98 (Stª Terezinha/Inst. Lauro S. Lima/UNIMED-Centro) PF1-PF2,,4/04/2013,15,76,2,38.0,38
+457,Linha 98 (Stª Terezinha/Inst. Lauro S. Lima/UNIMED-Centro) PF1-PF2,,4/04/2013,16,15,2,7.5,41
+458,Linha 98 (Stª Terezinha/Inst. Lauro S. Lima/UNIMED-Centro) PF1-PF2,,4/04/2013,17,58,2,29.0,46
+459,Linha 98 (Stª Terezinha/Inst. Lauro S. Lima/UNIMED-Centro) PF1-PF2,,4/04/2013,18,25,1,25.0,37
+460,Linha 98 (Stª Terezinha/Inst. Lauro S. Lima/UNIMED-Centro) PF1-PF2,,4/04/2013,19,35,1,35.0,38
+461,Linha 98 (Stª Terezinha/Inst. Lauro S. Lima/UNIMED-Centro) PF2-PF1,,4/04/2013,6,64,2,32.0,36
+462,Linha 98 (Stª Terezinha/Inst. Lauro S. Lima/UNIMED-Centro) PF2-PF1,,4/04/2013,7,214,4,53.5,43
+463,Linha 98 (Stª Terezinha/Inst. Lauro S. Lima/UNIMED-Centro) PF2-PF1,,4/04/2013,8,103,5,20.6,38
+464,Linha 98 (Stª Terezinha/Inst. Lauro S. Lima/UNIMED-Centro) PF2-PF1,,4/04/2013,13,55,1,55.0,49
+465,Linha 98 (Stª Terezinha/Inst. Lauro S. Lima/UNIMED-Centro) PF2-PF1,,4/04/2013,16,82,3,27.3,44
+466,Linha 98 (Stª Terezinha/Inst. Lauro S. Lima/UNIMED-Centro) PF2-PF1,,4/04/2013,17,55,1,55.0,46
+467,Linha 98A (Via Pq. Manchester) PF2-PF1,,,,12,35,1,35.0,46
+468,Linha 98A (Via Pq. Manchester) PF2-PF1,,,,15,15,1,15.0,47
+469,Linha 98A (Via Pq. Manchester) PF2-PF1,,,,16,32,1,32.0,40
+470,Linha 98A (Via Pq. Manchester) PF2-PF1,,,,18,26,1,26.0,45
+471,Linha 98B (Via Pq. Manchester e Prolongamento até o Vale do Igapó) PF2-PF1,,,,20,20,1,20.0,39
+472,Linha 98C (Prolongamento até o Vale do Igapó) PF1-PF2,,,,19,35,1,35.0,38
+473,Linha 98C (Prolongamento até o Vale do Igapó) PF2-PF1,,,,12,49,1,49.0,41
+474,Linha 98C (Prolongamento até o Vale do Igapó) PF2-PF1,,,,18,2,1,2.0,52
+475,Linha 98D (Prolongamento até o Distrito Industrial II) PF1-PF2,,,,16,15,2,7.5,41
+476,Linha 10.7 (Nova Esperança/CAIC-Pq. Vista Alegre) PF1-PF2,Grande Bauru,4/04/2013,5,18,1,18.0,31
+477,Linha 10.7 (Nova Esperança/CAIC-Pq. Vista Alegre) PF1-PF2,Grande Bauru,4/04/2013,6,92,2,46.0,38
+478,Linha 10.7 (Nova Esperança/CAIC-Pq. Vista Alegre) PF1-PF2,Grande Bauru,4/04/2013,7,131,3,43.7,37
+479,Linha 10.7 (Nova Esperança/CAIC-Pq. Vista Alegre) PF1-PF2,Grande Bauru,4/04/2013,8,64,3,21.3,37
+480,Linha 10.7 (Nova Esperança/CAIC-Pq. Vista Alegre) PF1-PF2,Grande Bauru,4/04/2013,9,25,1,25.0,34
+481,Linha 10.7 (Nova Esperança/CAIC-Pq. Vista Alegre) PF1-PF2,Grande Bauru,4/04/2013,10,40,2,20.0,38
+482,Linha 10.7 (Nova Esperança/CAIC-Pq. Vista Alegre) PF1-PF2,Grande Bauru,4/04/2013,11,21,1,21.0,35
+483,Linha 10.7 (Nova Esperança/CAIC-Pq. Vista Alegre) PF1-PF2,Grande Bauru,4/04/2013,12,73,2,36.5,37
+484,Linha 10.7 (Nova Esperança/CAIC-Pq. Vista Alegre) PF1-PF2,Grande Bauru,4/04/2013,13,45,1,45.0,42
+485,Linha 10.7 (Nova Esperança/CAIC-Pq. Vista Alegre) PF1-PF2,Grande Bauru,4/04/2013,14,16,1,16.0,35
+486,Linha 10.7 (Nova Esperança/CAIC-Pq. Vista Alegre) PF1-PF2,Grande Bauru,4/04/2013,15,34,1,34.0,38
+487,Linha 10.7 (Nova Esperança/CAIC-Pq. Vista Alegre) PF1-PF2,Grande Bauru,4/04/2013,16,64,3,21.3,37
+488,Linha 10.7 (Nova Esperança/CAIC-Pq. Vista Alegre) PF1-PF2,Grande Bauru,4/04/2013,17,75,2,37.5,28
+489,Linha 10.7 (Nova Esperança/CAIC-Pq. Vista Alegre) PF1-PF2,Grande Bauru,4/04/2013,18,88,4,22.0,35
+490,Linha 25.4 (Falcão/IBC/Bauru H-Cardia/Guadalajara) PF1-PF2,Grande Bauru,4/04/2013,6,92,2,46.0,43
+491,Linha 25.4 (Falcão/IBC/Bauru H-Cardia/Guadalajara) PF1-PF2,Grande Bauru,4/04/2013,7,23,1,23.0,43
+492,Linha 25.4 (Falcão/IBC/Bauru H-Cardia/Guadalajara) PF1-PF2,Grande Bauru,4/04/2013,8,17,1,17.0,39
+493,Linha 25.4 (Falcão/IBC/Bauru H-Cardia/Guadalajara) PF1-PF2,Grande Bauru,4/04/2013,9,15,2,7.5,42
+494,Linha 25.4 (Falcão/IBC/Bauru H-Cardia/Guadalajara) PF1-PF2,Grande Bauru,4/04/2013,10,14,1,14.0,38
+495,Linha 25.4 (Falcão/IBC/Bauru H-Cardia/Guadalajara) PF1-PF2,Grande Bauru,4/04/2013,11,17,1,17.0,41
+496,Linha 25.4 (Falcão/IBC/Bauru H-Cardia/Guadalajara) PF1-PF2,Grande Bauru,4/04/2013,12,48,2,24.0,46
+497,Linha 25.4 (Falcão/IBC/Bauru H-Cardia/Guadalajara) PF1-PF2,Grande Bauru,4/04/2013,13,25,1,25.0,45
+498,Linha 25.4 (Falcão/IBC/Bauru H-Cardia/Guadalajara) PF1-PF2,Grande Bauru,4/04/2013,14,19,1,19.0,47
+499,Linha 25.4 (Falcão/IBC/Bauru H-Cardia/Guadalajara) PF1-PF2,Grande Bauru,4/04/2013,15,48,2,24.0,47
+500,Linha 25.4 (Falcão/IBC/Bauru H-Cardia/Guadalajara) PF1-PF2,Grande Bauru,4/04/2013,16,5,1,5.0,41
+501,Linha 25.4 (Falcão/IBC/Bauru H-Cardia/Guadalajara) PF1-PF2,Grande Bauru,4/04/2013,17,17,1,17.0,51
+502,Linha 25.4 (Falcão/IBC/Bauru H-Cardia/Guadalajara) PF1-PF2,Grande Bauru,4/04/2013,18,20,2,10.0,43
+503,Linha 25.4 (Falcão/IBC/Bauru H-Cardia/Guadalajara) PF1-PF2,Grande Bauru,4/04/2013,19,10,1,10.0,47
+504,Linha 25.4 (Falcão/IBC/Bauru H-Cardia/Guadalajara) PF1-PF2,Grande Bauru,4/04/2013,21,7,1,7.0,37
+505,Linha 25.4 (Falcão/IBC/Bauru H-Cardia/Guadalajara) PF1-PF2,Grande Bauru,4/04/2013,22,7,1,7.0,36
+506,Linha 25.4 (Falcão/IBC/Bauru H-Cardia/Guadalajara) PF2-PF1,Grande Bauru,4/04/2013,6,34,2,17.0,30
+507,Linha 25.4 (Falcão/IBC/Bauru H-Cardia/Guadalajara) PF2-PF1,Grande Bauru,4/04/2013,7,12,1,12.0,27
+508,Linha 25.4 (Falcão/IBC/Bauru H-Cardia/Guadalajara) PF2-PF1,Grande Bauru,4/04/2013,8,8,1,8.0,34
+509,Linha 25.4 (Falcão/IBC/Bauru H-Cardia/Guadalajara) PF2-PF1,Grande Bauru,4/04/2013,9,16,2,8.0,33
+510,Linha 25.4 (Falcão/IBC/Bauru H-Cardia/Guadalajara) PF2-PF1,Grande Bauru,4/04/2013,10,15,1,15.0,31
+511,Linha 25.4 (Falcão/IBC/Bauru H-Cardia/Guadalajara) PF2-PF1,Grande Bauru,4/04/2013,11,17,1,17.0,39
+512,Linha 25.4 (Falcão/IBC/Bauru H-Cardia/Guadalajara) PF2-PF1,Grande Bauru,4/04/2013,12,34,2,17.0,35
+513,Linha 25.4 (Falcão/IBC/Bauru H-Cardia/Guadalajara) PF2-PF1,Grande Bauru,4/04/2013,13,33,1,33.0,40
+514,Linha 25.4 (Falcão/IBC/Bauru H-Cardia/Guadalajara) PF2-PF1,Grande Bauru,4/04/2013,14,14,1,14.0,34
+515,Linha 25.4 (Falcão/IBC/Bauru H-Cardia/Guadalajara) PF2-PF1,Grande Bauru,4/04/2013,15,39,2,19.5,36
+516,Linha 25.4 (Falcão/IBC/Bauru H-Cardia/Guadalajara) PF2-PF1,Grande Bauru,4/04/2013,16,24,1,24.0,34
+517,Linha 25.4 (Falcão/IBC/Bauru H-Cardia/Guadalajara) PF2-PF1,Grande Bauru,4/04/2013,17,50,1,50.0,38
+518,Linha 25.4 (Falcão/IBC/Bauru H-Cardia/Guadalajara) PF2-PF1,Grande Bauru,4/04/2013,18,32,1,32.0,35
+519,Linha 25.4 (Falcão/IBC/Bauru H-Cardia/Guadalajara) PF2-PF1,Grande Bauru,4/04/2013,19,10,1,10.0,31
+520,Linha 25.4 (Falcão/IBC/Bauru H-Cardia/Guadalajara) PF2-PF1,Grande Bauru,4/04/2013,20,14,1,14.0,32
+521,Linha 25.4 (Falcão/IBC/Bauru H-Cardia/Guadalajara) PF2-PF1,Grande Bauru,4/04/2013,21,7,1,7.0,28
+522,Linha 25.4 (Falcão/IBC/Bauru H-Cardia/Guadalajara) PF2-PF1,Grande Bauru,4/04/2013,23,2,1,2.0,22
+523,Linha 43.6 (Vl. Garcia/Jd. TV-Vl. Maria/Independência) PF1-PF2,Grande Bauru,3/04/2013,5,90,3,30.0,46
+524,Linha 43.6 (Vl. Garcia/Jd. TV-Vl. Maria/Independência) PF1-PF2,Grande Bauru,3/04/2013,6,116,2,58.0,38
+525,Linha 43.6 (Vl. Garcia/Jd. TV-Vl. Maria/Independência) PF1-PF2,Grande Bauru,3/04/2013,7,100,2,50.0,37
+526,Linha 43.6 (Vl. Garcia/Jd. TV-Vl. Maria/Independência) PF1-PF2,Grande Bauru,3/04/2013,8,114,3,38.0,34
+527,Linha 43.6 (Vl. Garcia/Jd. TV-Vl. Maria/Independência) PF1-PF2,Grande Bauru,3/04/2013,9,33,2,16.5,33
+528,Linha 43.6 (Vl. Garcia/Jd. TV-Vl. Maria/Independência) PF1-PF2,Grande Bauru,3/04/2013,10,25,1,25.0,57
+529,Linha 43.6 (Vl. Garcia/Jd. TV-Vl. Maria/Independência) PF1-PF2,Grande Bauru,3/04/2013,11,60,2,30.0,35
+530,Linha 43.6 (Vl. Garcia/Jd. TV-Vl. Maria/Independência) PF1-PF2,Grande Bauru,3/04/2013,12,74,2,37.0,39
+531,Linha 43.6 (Vl. Garcia/Jd. TV-Vl. Maria/Independência) PF1-PF2,Grande Bauru,3/04/2013,13,60,2,30.0,38
+532,Linha 43.6 (Vl. Garcia/Jd. TV-Vl. Maria/Independência) PF1-PF2,Grande Bauru,3/04/2013,14,18,1,18.0,36
+533,Linha 43.6 (Vl. Garcia/Jd. TV-Vl. Maria/Independência) PF1-PF2,Grande Bauru,3/04/2013,15,53,2,26.5,39
+534,Linha 43.6 (Vl. Garcia/Jd. TV-Vl. Maria/Independência) PF1-PF2,Grande Bauru,3/04/2013,16,38,2,19.0,36
+535,Linha 43.6 (Vl. Garcia/Jd. TV-Vl. Maria/Independência) PF1-PF2,Grande Bauru,3/04/2013,17,81,2,40.5,39
+536,Linha 43.6 (Vl. Garcia/Jd. TV-Vl. Maria/Independência) PF1-PF2,Grande Bauru,3/04/2013,18,32,2,16.0,25
+537,Linha 43.6 (Vl. Garcia/Jd. TV-Vl. Maria/Independência) PF1-PF2,Grande Bauru,3/04/2013,19,27,2,13.5,39
+538,Linha 43.6 (Vl. Garcia/Jd. TV-Vl. Maria/Independência) PF1-PF2,Grande Bauru,3/04/2013,20,10,1,10.0,41
+539,Linha 43.6 (Vl. Garcia/Jd. TV-Vl. Maria/Independência) PF1-PF2,Grande Bauru,3/04/2013,21,43,2,21.5,58
+540,Linha 43.6 (Vl. Garcia/Jd. TV-Vl. Maria/Independência) PF1-PF2,Grande Bauru,3/04/2013,23,8,2,4.0,29
+541,Linha 43.6 (Vl. Garcia/Jd. TV-Vl. Maria/Independência) PF2-PF1,Grande Bauru,3/04/2013,5,9,1,9.0,30
+542,Linha 43.6 (Vl. Garcia/Jd. TV-Vl. Maria/Independência) PF2-PF1,Grande Bauru,3/04/2013,6,81,3,27.0,37
+543,Linha 43.6 (Vl. Garcia/Jd. TV-Vl. Maria/Independência) PF2-PF1,Grande Bauru,3/04/2013,7,45,3,15.0,40
+544,Linha 43.6 (Vl. Garcia/Jd. TV-Vl. Maria/Independência) PF2-PF1,Grande Bauru,3/04/2013,8,21,1,21.0,35
+545,Linha 43.6 (Vl. Garcia/Jd. TV-Vl. Maria/Independência) PF2-PF1,Grande Bauru,3/04/2013,9,31,2,15.5,35
+546,Linha 43.6 (Vl. Garcia/Jd. TV-Vl. Maria/Independência) PF2-PF1,Grande Bauru,3/04/2013,10,14,1,14.0,36
+547,Linha 43.6 (Vl. Garcia/Jd. TV-Vl. Maria/Independência) PF2-PF1,Grande Bauru,3/04/2013,11,43,2,21.5,40
+548,Linha 43.6 (Vl. Garcia/Jd. TV-Vl. Maria/Independência) PF2-PF1,Grande Bauru,3/04/2013,12,60,2,30.0,39
+549,Linha 43.6 (Vl. Garcia/Jd. TV-Vl. Maria/Independência) PF2-PF1,Grande Bauru,3/04/2013,13,89,2,44.5,46
+550,Linha 43.6 (Vl. Garcia/Jd. TV-Vl. Maria/Independência) PF2-PF1,Grande Bauru,3/04/2013,14,49,1,49.0,45
+551,Linha 43.6 (Vl. Garcia/Jd. TV-Vl. Maria/Independência) PF2-PF1,Grande Bauru,3/04/2013,15,112,3,37.3,43
+552,Linha 43.6 (Vl. Garcia/Jd. TV-Vl. Maria/Independência) PF2-PF1,Grande Bauru,3/04/2013,16,99,2,49.5,45
+553,Linha 43.6 (Vl. Garcia/Jd. TV-Vl. Maria/Independência) PF2-PF1,Grande Bauru,3/04/2013,17,159,3,53.0,42
+554,Linha 43.6 (Vl. Garcia/Jd. TV-Vl. Maria/Independência) PF2-PF1,Grande Bauru,3/04/2013,18,99,2,49.5,43
+555,Linha 43.6 (Vl. Garcia/Jd. TV-Vl. Maria/Independência) PF2-PF1,Grande Bauru,3/04/2013,19,41,2,20.5,40
+556,Linha 43.6 (Vl. Garcia/Jd. TV-Vl. Maria/Independência) PF2-PF1,Grande Bauru,3/04/2013,20,25,1,25.0,42
+557,Linha 43.6 (Vl. Garcia/Jd. TV-Vl. Maria/Independência) PF2-PF1,Grande Bauru,3/04/2013,21,24,1,24.0,38
+558,Linha 43.6 (Vl. Garcia/Jd. TV-Vl. Maria/Independência) PF2-PF1,Grande Bauru,3/04/2013,22,32,2,16.0,34
+559,Linha 43.6 (Vl. Garcia/Jd. TV-Vl. Maria/Independência) PF2-PF1,Grande Bauru,3/04/2013,23,13,1,13.0,31
+560,Linha 5.18 (Dutra/Marilú/Stª Cândida-Shopping) PF1-PF2,Baurutrans,10/04/2013,5,43,1,43.0,38
+561,Linha 5.18 (Dutra/Marilú/Stª Cândida-Shopping) PF1-PF2,Baurutrans,10/04/2013,6,272,3,90.7,49
+562,Linha 5.18 (Dutra/Marilú/Stª Cândida-Shopping) PF1-PF2,Baurutrans,10/04/2013,7,62,1,62.0,49
+563,Linha 5.18 (Dutra/Marilú/Stª Cândida-Shopping) PF1-PF2,Baurutrans,10/04/2013,8,105,2,52.5,46
+564,Linha 5.18 (Dutra/Marilú/Stª Cândida-Shopping) PF1-PF2,Baurutrans,10/04/2013,9,39,1,39.0,49
+565,Linha 5.18 (Dutra/Marilú/Stª Cândida-Shopping) PF1-PF2,Baurutrans,10/04/2013,10,66,2,33.0,47
+566,Linha 5.18 (Dutra/Marilú/Stª Cândida-Shopping) PF1-PF2,Baurutrans,10/04/2013,11,37,1,37.0,44
+567,Linha 5.18 (Dutra/Marilú/Stª Cândida-Shopping) PF1-PF2,Baurutrans,10/04/2013,12,152,2,76.0,53
+568,Linha 5.18 (Dutra/Marilú/Stª Cândida-Shopping) PF1-PF2,Baurutrans,10/04/2013,13,78,1,78.0,46
+569,Linha 5.18 (Dutra/Marilú/Stª Cândida-Shopping) PF1-PF2,Baurutrans,10/04/2013,14,44,1,44.0,51
+570,Linha 5.18 (Dutra/Marilú/Stª Cândida-Shopping) PF1-PF2,Baurutrans,10/04/2013,15,83,2,41.5,44
+571,Linha 5.18 (Dutra/Marilú/Stª Cândida-Shopping) PF1-PF2,Baurutrans,10/04/2013,16,22,1,22.0,48
+572,Linha 5.18 (Dutra/Marilú/Stª Cândida-Shopping) PF1-PF2,Baurutrans,10/04/2013,17,106,3,35.3,46
+573,Linha 5.18 (Dutra/Marilú/Stª Cândida-Shopping) PF1-PF2,Baurutrans,10/04/2013,18,23,1,23.0,41
+574,Linha 5.18 (Dutra/Marilú/Stª Cândida-Shopping) PF1-PF2,Baurutrans,10/04/2013,19,62,2,31.0,50
+575,Linha 5.18 (Dutra/Marilú/Stª Cândida-Shopping) PF1-PF2,Baurutrans,10/04/2013,20,47,1,47.0,47
+576,Linha 5.18 (Dutra/Marilú/Stª Cândida-Shopping) PF1-PF2,Baurutrans,10/04/2013,21,56,1,56.0,37
+577,Linha 5.18 (Dutra/Marilú/Stª Cândida-Shopping) PF1-PF2,Baurutrans,10/04/2013,22,1,1,1.0,36
+578,Linha 5.18 (Dutra/Marilú/Stª Cândida-Shopping) PF2-PF1,Baurutrans,10/04/2013,5,17,1,17.0,37
+579,Linha 5.18 (Dutra/Marilú/Stª Cândida-Shopping) PF2-PF1,Baurutrans,10/04/2013,6,4,1,4.0,29
+580,Linha 5.18 (Dutra/Marilú/Stª Cândida-Shopping) PF2-PF1,Baurutrans,10/04/2013,7,47,2,23.5,49
+581,Linha 5.18 (Dutra/Marilú/Stª Cândida-Shopping) PF2-PF1,Baurutrans,10/04/2013,8,11,1,11.0,49
+582,Linha 5.18 (Dutra/Marilú/Stª Cândida-Shopping) PF2-PF1,Baurutrans,10/04/2013,9,14,1,14.0,45
+583,Linha 5.18 (Dutra/Marilú/Stª Cândida-Shopping) PF2-PF1,Baurutrans,10/04/2013,10,19,1,19.0,60
+584,Linha 5.18 (Dutra/Marilú/Stª Cândida-Shopping) PF2-PF1,Baurutrans,10/04/2013,11,79,2,39.5,53
+585,Linha 5.18 (Dutra/Marilú/Stª Cândida-Shopping) PF2-PF1,Baurutrans,10/04/2013,12,40,1,40.0,52
+586,Linha 5.18 (Dutra/Marilú/Stª Cândida-Shopping) PF2-PF1,Baurutrans,10/04/2013,13,34,1,34.0,46
+587,Linha 5.18 (Dutra/Marilú/Stª Cândida-Shopping) PF2-PF1,Baurutrans,10/04/2013,14,73,1,73.0,53
+588,Linha 5.18 (Dutra/Marilú/Stª Cândida-Shopping) PF2-PF1,Baurutrans,10/04/2013,15,61,1,61.0,48
+589,Linha 5.18 (Dutra/Marilú/Stª Cândida-Shopping) PF2-PF1,Baurutrans,10/04/2013,16,275,4,68.8,49
+590,Linha 5.18 (Dutra/Marilú/Stª Cândida-Shopping) PF2-PF1,Baurutrans,10/04/2013,17,155,2,77.5,58
+591,Linha 5.18 (Dutra/Marilú/Stª Cândida-Shopping) PF2-PF1,Baurutrans,10/04/2013,18,96,2,48.0,52
+592,Linha 5.18 (Dutra/Marilú/Stª Cândida-Shopping) PF2-PF1,Baurutrans,10/04/2013,20,91,2,45.5,53
+593,Linha 5.18 (Dutra/Marilú/Stª Cândida-Shopping) PF2-PF1,Baurutrans,10/04/2013,21,32,1,32.0,45
+594,Linha 5.18 (Dutra/Marilú/Stª Cândida-Shopping) PF2-PF1,Baurutrans,10/04/2013,22,23,1,23.0,60
+595,Linha 56.9 (Pq. Real-Pç. Do Líbano) PF1-PF2,Baurutrans,9/04/2013,5,24,1,24.0,26
+596,Linha 56.9 (Pq. Real-Pç. Do Líbano) PF1-PF2,Baurutrans,9/04/2013,6,49,1,49.0,34
+597,Linha 56.9 (Pq. Real-Pç. Do Líbano) PF1-PF2,Baurutrans,9/04/2013,7,52,2,26.0,29
+598,Linha 56.9 (Pq. Real-Pç. Do Líbano) PF1-PF2,Baurutrans,9/04/2013,8,32,1,32.0,23
+599,Linha 56.9 (Pq. Real-Pç. Do Líbano) PF1-PF2,Baurutrans,9/04/2013,9,47,2,23.5,24
+600,Linha 56.9 (Pq. Real-Pç. Do Líbano) PF1-PF2,Baurutrans,9/04/2013,10,8,1,8.0,21
+601,Linha 56.9 (Pq. Real-Pç. Do Líbano) PF1-PF2,Baurutrans,9/04/2013,11,5,1,5.0,32
+602,Linha 56.9 (Pq. Real-Pç. Do Líbano) PF1-PF2,Baurutrans,9/04/2013,12,12,1,12.0,24
+603,Linha 56.9 (Pq. Real-Pç. Do Líbano) PF1-PF2,Baurutrans,9/04/2013,13,27,1,27.0,29
+604,Linha 56.9 (Pq. Real-Pç. Do Líbano) PF1-PF2,Baurutrans,9/04/2013,14,14,1,14.0,22
+605,Linha 56.9 (Pq. Real-Pç. Do Líbano) PF1-PF2,Baurutrans,9/04/2013,15,6,1,6.0,28
+606,Linha 56.9 (Pq. Real-Pç. Do Líbano) PF1-PF2,Baurutrans,9/04/2013,16,9,1,9.0,25
+607,Linha 56.9 (Pq. Real-Pç. Do Líbano) PF1-PF2,Baurutrans,9/04/2013,17,19,2,9.5,24
+608,Linha 56.9 (Pq. Real-Pç. Do Líbano) PF1-PF2,Baurutrans,9/04/2013,18,22,2,11.0,27
+609,Linha 56.9 (Pq. Real-Pç. Do Líbano) PF1-PF2,Baurutrans,9/04/2013,19,15,2,7.5,25
+610,Linha 56.9 (Pq. Real-Pç. Do Líbano) PF1-PF2,Baurutrans,9/04/2013,21,6,1,6.0,19
+611,Linha 56.9 (Pq. Real-Pç. Do Líbano) PF1-PF2,Baurutrans,9/04/2013,22,1,1,1.0,17
+612,Linha 56.9 (Pq. Real-Pç. Do Líbano) PF2-PF1,Baurutrans,9/04/2013,6,13,2,6.5,31
+613,Linha 56.9 (Pq. Real-Pç. Do Líbano) PF2-PF1,Baurutrans,9/04/2013,7,16,2,8.0,29
+614,Linha 56.9 (Pq. Real-Pç. Do Líbano) PF2-PF1,Baurutrans,9/04/2013,8,9,2,4.5,25
+615,Linha 56.9 (Pq. Real-Pç. Do Líbano) PF2-PF1,Baurutrans,9/04/2013,10,12,1,12.0,28
+616,Linha 56.9 (Pq. Real-Pç. Do Líbano) PF2-PF1,Baurutrans,9/04/2013,11,27,2,13.5,25
+617,Linha 56.9 (Pq. Real-Pç. Do Líbano) PF2-PF1,Baurutrans,9/04/2013,12,14,1,14.0,29
+618,Linha 56.9 (Pq. Real-Pç. Do Líbano) PF2-PF1,Baurutrans,9/04/2013,13,19,1,19.0,26
+619,Linha 56.9 (Pq. Real-Pç. Do Líbano) PF2-PF1,Baurutrans,9/04/2013,14,46,2,23.0,29
+620,Linha 56.9 (Pq. Real-Pç. Do Líbano) PF2-PF1,Baurutrans,9/04/2013,15,45,1,45.0,39
+621,Linha 56.9 (Pq. Real-Pç. Do Líbano) PF2-PF1,Baurutrans,9/04/2013,16,47,2,23.5,27
+622,Linha 56.9 (Pq. Real-Pç. Do Líbano) PF2-PF1,Baurutrans,9/04/2013,17,51,1,51.0,33
+623,Linha 56.9 (Pq. Real-Pç. Do Líbano) PF2-PF1,Baurutrans,9/04/2013,18,88,2,44.0,30
+624,Linha 56.9 (Pq. Real-Pç. Do Líbano) PF2-PF1,Baurutrans,9/04/2013,19,30,2,15.0,23
+625,Linha 56.9 (Pq. Real-Pç. Do Líbano) PF2-PF1,Baurutrans,9/04/2013,20,19,1,19.0,25
+626,Linha 56.9 (Pq. Real-Pç. Do Líbano) PF2-PF1,Baurutrans,9/04/2013,21,17,1,17.0,21
+627,Linha 56.9 (Pq. Real-Pç. Do Líbano) PF2-PF1,Baurutrans,9/04/2013,22,20,1,20.0,28
+628,Linha 5.87 (Dutra-IPMET/Campus) PF1-PF2,Cidade Sem Limites,16/04/2013,6,257,3,85.7,60
+629,Linha 5.87 (Dutra-IPMET/Campus) PF1-PF2,Cidade Sem Limites,16/04/2013,7,228,4,57.0,54
+630,Linha 5.87 (Dutra-IPMET/Campus) PF1-PF2,Cidade Sem Limites,16/04/2013,10,53,1,53.0,59
+631,Linha 5.87 (Dutra-IPMET/Campus) PF1-PF2,Cidade Sem Limites,16/04/2013,13,16,1,16.0,52
+632,Linha 5.87 (Dutra-IPMET/Campus) PF1-PF2,Cidade Sem Limites,16/04/2013,14,49,2,24.5,49
+633,Linha 5.87 (Dutra-IPMET/Campus) PF1-PF2,Cidade Sem Limites,16/04/2013,15,83,2,41.5,66
+634,Linha 5.87 (Dutra-IPMET/Campus) PF1-PF2,Cidade Sem Limites,16/04/2013,22,16,1,16.0,42
+635,Linha 5.87 (Dutra-IPMET/Campus) PF2-PF1,Cidade Sem Limites,16/04/2013,7,20,1,20.0,54
+636,Linha 5.87 (Dutra-IPMET/Campus) PF2-PF1,Cidade Sem Limites,16/04/2013,8,8,1,8.0,49
+637,Linha 5.87 (Dutra-IPMET/Campus) PF2-PF1,Cidade Sem Limites,16/04/2013,9,47,1,47.0,60
+638,Linha 5.87 (Dutra-IPMET/Campus) PF2-PF1,Cidade Sem Limites,16/04/2013,10,32,1,32.0,55
+639,Linha 5.87 (Dutra-IPMET/Campus) PF2-PF1,Cidade Sem Limites,16/04/2013,12,66,2,33.0,54
+640,Linha 5.87 (Dutra-IPMET/Campus) PF2-PF1,Cidade Sem Limites,16/04/2013,14,64,1,64.0,63
+641,Linha 5.87 (Dutra-IPMET/Campus) PF2-PF1,Cidade Sem Limites,16/04/2013,16,65,1,65.0,63
+642,Linha 5.87 (Dutra-IPMET/Campus) PF2-PF1,Cidade Sem Limites,16/04/2013,17,71,1,71.0,64
+643,Linha 5.87 (Dutra-IPMET/Campus) PF2-PF1,Cidade Sem Limites,16/04/2013,18,41,1,41.0,62
+644,Linha 5.87 (Dutra-IPMET/Campus) PF2-PF1,Cidade Sem Limites,16/04/2013,19,34,1,34.0,48
+645,Linha 5.87 (Dutra-IPMET/Campus) PF2-PF1,Cidade Sem Limites,16/04/2013,21,24,1,24.0,42
+646,Linha 5.87 (Dutra-IPMET/Campus) PF2-PF1,Cidade Sem Limites,16/04/2013,22,39,1,39.0,76
+647,Linha 10.28 (Nova Esperança/Caic-Jd. Brasil/USC) PF1-PF2,Grande Bauru,4/04/2013,6,32,1,32.0,28
+648,Linha 10.28 (Nova Esperança/Caic-Jd. Brasil/USC) PF1-PF2,Grande Bauru,4/04/2013,7,124,2,62.0,38
+649,Linha 10.28 (Nova Esperança/Caic-Jd. Brasil/USC) PF1-PF2,Grande Bauru,4/04/2013,8,104,2,52.0,39
+650,Linha 10.28 (Nova Esperança/Caic-Jd. Brasil/USC) PF1-PF2,Grande Bauru,4/04/2013,9,52,2,26.0,33
+651,Linha 10.28 (Nova Esperança/Caic-Jd. Brasil/USC) PF1-PF2,Grande Bauru,4/04/2013,10,62,2,31.0,35
+652,Linha 10.28 (Nova Esperança/Caic-Jd. Brasil/USC) PF1-PF2,Grande Bauru,4/04/2013,11,49,3,16.3,32
+653,Linha 10.28 (Nova Esperança/Caic-Jd. Brasil/USC) PF1-PF2,Grande Bauru,4/04/2013,12,31,1,31.0,31
+654,Linha 10.28 (Nova Esperança/Caic-Jd. Brasil/USC) PF1-PF2,Grande Bauru,4/04/2013,13,102,3,34.0,37
+655,Linha 10.28 (Nova Esperança/Caic-Jd. Brasil/USC) PF1-PF2,Grande Bauru,4/04/2013,14,71,2,35.5,38
+656,Linha 10.28 (Nova Esperança/Caic-Jd. Brasil/USC) PF1-PF2,Grande Bauru,4/04/2013,15,49,2,24.5,35
+657,Linha 10.28 (Nova Esperança/Caic-Jd. Brasil/USC) PF1-PF2,Grande Bauru,4/04/2013,16,46,2,23.0,35
+658,Linha 10.28 (Nova Esperança/Caic-Jd. Brasil/USC) PF1-PF2,Grande Bauru,4/04/2013,17,38,2,19.0,31
+659,Linha 10.28 (Nova Esperança/Caic-Jd. Brasil/USC) PF1-PF2,Grande Bauru,4/04/2013,18,31,2,15.5,38
+660,Linha 10.28 (Nova Esperança/Caic-Jd. Brasil/USC) PF1-PF2,Grande Bauru,4/04/2013,19,62,1,62.0,86
+661,Linha 10.28 (Nova Esperança/Caic-Jd. Brasil/USC) PF2-PF1,Grande Bauru,4/04/2013,6,56,1,56.0,78
+662,Linha 10.28 (Nova Esperança/Caic-Jd. Brasil/USC) PF2-PF1,Grande Bauru,4/04/2013,7,34,2,17.0,43
+663,Linha 10.28 (Nova Esperança/Caic-Jd. Brasil/USC) PF2-PF1,Grande Bauru,4/04/2013,8,20,2,10.0,44
+664,Linha 10.28 (Nova Esperança/Caic-Jd. Brasil/USC) PF2-PF1,Grande Bauru,4/04/2013,9,23,1,23.0,43
+665,Linha 10.28 (Nova Esperança/Caic-Jd. Brasil/USC) PF2-PF1,Grande Bauru,4/04/2013,10,12,1,12.0,35
+666,Linha 10.28 (Nova Esperança/Caic-Jd. Brasil/USC) PF2-PF1,Grande Bauru,4/04/2013,11,49,2,24.5,35
+667,Linha 10.28 (Nova Esperança/Caic-Jd. Brasil/USC) PF2-PF1,Grande Bauru,4/04/2013,12,11,1,11.0,37
+668,Linha 10.28 (Nova Esperança/Caic-Jd. Brasil/USC) PF2-PF1,Grande Bauru,4/04/2013,13,26,1,26.0,34
+669,Linha 10.28 (Nova Esperança/Caic-Jd. Brasil/USC) PF2-PF1,Grande Bauru,4/04/2013,14,64,2,32.0,44
+670,Linha 10.28 (Nova Esperança/Caic-Jd. Brasil/USC) PF2-PF1,Grande Bauru,4/04/2013,15,63,1,63.0,40
+671,Linha 10.28 (Nova Esperança/Caic-Jd. Brasil/USC) PF2-PF1,Grande Bauru,4/04/2013,16,42,1,42.0,39
+672,Linha 10.28 (Nova Esperança/Caic-Jd. Brasil/USC) PF2-PF1,Grande Bauru,4/04/2013,17,113,3,37.7,37
+673,Linha 10.28 (Nova Esperança/Caic-Jd. Brasil/USC) PF2-PF1,Grande Bauru,4/04/2013,18,20,1,20.0,33
+674,Linha 10.28 (Nova Esperança/Caic-Jd. Brasil/USC) PF2-PF1,Grande Bauru,4/04/2013,19,17,1,17.0,36
+675,Linha 16.44 (Paraíso/Dutra-Villaggio/Jd. Europa) PF1-PF2,Cidade Sem Limites,16/04/2013,5,124,2,62.0,52
+676,Linha 16.44 (Paraíso/Dutra-Villaggio/Jd. Europa) PF1-PF2,Cidade Sem Limites,16/04/2013,6,506,6,84.3,50
+677,Linha 16.44 (Paraíso/Dutra-Villaggio/Jd. Europa) PF1-PF2,Cidade Sem Limites,16/04/2013,7,116,5,23.2,49
+678,Linha 16.44 (Paraíso/Dutra-Villaggio/Jd. Europa) PF1-PF2,Cidade Sem Limites,16/04/2013,8,116,3,38.7,50
+679,Linha 16.44 (Paraíso/Dutra-Villaggio/Jd. Europa) PF1-PF2,Cidade Sem Limites,16/04/2013,10,76,3,25.3,50
+680,Linha 16.44 (Paraíso/Dutra-Villaggio/Jd. Europa) PF1-PF2,Cidade Sem Limites,16/04/2013,11,129,5,25.8,45
+681,Linha 16.44 (Paraíso/Dutra-Villaggio/Jd. Europa) PF1-PF2,Cidade Sem Limites,16/04/2013,19,38,4,9.5,48
+682,Linha 16.44 (Paraíso/Dutra-Villaggio/Jd. Europa) PF1-PF2,Cidade Sem Limites,16/04/2013,21,15,2,7.5,51
+683,Linha 16.44 (Paraíso/Dutra-Villaggio/Jd. Europa) PF2-PF1,Cidade Sem Limites,16/04/2013,6,103,2,51.5,30
+684,Linha 16.44 (Paraíso/Dutra-Villaggio/Jd. Europa) PF2-PF1,Cidade Sem Limites,16/04/2013,7,126,5,25.2,24
+685,Linha 16.44 (Paraíso/Dutra-Villaggio/Jd. Europa) PF2-PF1,Cidade Sem Limites,16/04/2013,8,9,2,4.5,23
+686,Linha 16.44 (Paraíso/Dutra-Villaggio/Jd. Europa) PF2-PF1,Cidade Sem Limites,16/04/2013,10,18,1,18.0,24
+687,Linha 16.44 (Paraíso/Dutra-Villaggio/Jd. Europa) PF2-PF1,Cidade Sem Limites,16/04/2013,11,13,1,13.0,26
+688,Linha 16.44 (Paraíso/Dutra-Villaggio/Jd. Europa) PF2-PF1,Cidade Sem Limites,16/04/2013,12,36,2,18.0,29
+689,Linha 16.44 (Paraíso/Dutra-Villaggio/Jd. Europa) PF2-PF1,Cidade Sem Limites,16/04/2013,13,90,2,45.0,29
+690,Linha 16.44 (Paraíso/Dutra-Villaggio/Jd. Europa) PF2-PF1,Cidade Sem Limites,16/04/2013,14,115,2,57.5,21
+691,Linha 16.44 (Paraíso/Dutra-Villaggio/Jd. Europa) PF2-PF1,Cidade Sem Limites,16/04/2013,15,97,2,48.5,31
+692,Linha 16.44 (Paraíso/Dutra-Villaggio/Jd. Europa) PF2-PF1,Cidade Sem Limites,16/04/2013,16,76,1,76.0,37
+693,Linha 16.44 (Paraíso/Dutra-Villaggio/Jd. Europa) PF2-PF1,Cidade Sem Limites,16/04/2013,17,97,2,48.5,34
+694,Linha 16.44 (Paraíso/Dutra-Villaggio/Jd. Europa) PF2-PF1,Cidade Sem Limites,16/04/2013,18,53,1,53.0,33
+695,Linha 16.44 (Paraíso/Dutra-Villaggio/Jd. Europa) PF2-PF1,Cidade Sem Limites,16/04/2013,19,49,2,24.5,28
+696,Linha 16.44 (Paraíso/Dutra-Villaggio/Jd. Europa) PF2-PF1,Cidade Sem Limites,16/04/2013,20,109,2,54.5,23
+697,Linha 16.44 (Paraíso/Dutra-Villaggio/Jd. Europa) PF2-PF1,Cidade Sem Limites,16/04/2013,21,13,1,13.0,25
+698,Linha 16.44 (Paraíso/Dutra-Villaggio/Jd. Europa) PF2-PF1,Cidade Sem Limites,16/04/2013,22,10,1,10.0,19
+699,Linha 18.12 (Shopping/Jd. Planalto-Vl. Lemos/Vl. Quággio) PF1-PF2,,10/04/2013,6,141,3,47.0,34
+700,Linha 18.12 (Shopping/Jd. Planalto-Vl. Lemos/Vl. Quággio) PF1-PF2,,10/04/2013,7,106,2,53.0,39
+701,Linha 18.12 (Shopping/Jd. Planalto-Vl. Lemos/Vl. Quággio) PF1-PF2,,10/04/2013,8,54,2,27.0,38
+702,Linha 18.12 (Shopping/Jd. Planalto-Vl. Lemos/Vl. Quággio) PF1-PF2,,10/04/2013,9,47,1,47.0,36
+703,Linha 18.12 (Shopping/Jd. Planalto-Vl. Lemos/Vl. Quággio) PF1-PF2,,10/04/2013,10,13,1,13.0,37
+704,Linha 18.12 (Shopping/Jd. Planalto-Vl. Lemos/Vl. Quággio) PF1-PF2,,10/04/2013,11,23,1,23.0,35
+705,Linha 18.12 (Shopping/Jd. Planalto-Vl. Lemos/Vl. Quággio) PF1-PF2,,10/04/2013,12,28,1,28.0,35
+706,Linha 18.12 (Shopping/Jd. Planalto-Vl. Lemos/Vl. Quággio) PF1-PF2,,10/04/2013,13,207,3,69.0,39
+707,Linha 18.12 (Shopping/Jd. Planalto-Vl. Lemos/Vl. Quággio) PF1-PF2,,10/04/2013,14,32,1,32.0,41
+708,Linha 18.12 (Shopping/Jd. Planalto-Vl. Lemos/Vl. Quággio) PF1-PF2,,10/04/2013,15,66,2,33.0,37
+709,Linha 18.12 (Shopping/Jd. Planalto-Vl. Lemos/Vl. Quággio) PF1-PF2,,10/04/2013,16,5,1,5.0,38
+710,Linha 18.12 (Shopping/Jd. Planalto-Vl. Lemos/Vl. Quággio) PF1-PF2,,10/04/2013,17,36,2,18.0,42
+711,Linha 18.12 (Shopping/Jd. Planalto-Vl. Lemos/Vl. Quággio) PF1-PF2,,10/04/2013,18,24,2,12.0,36
+712,Linha 18.12 (Shopping/Jd. Planalto-Vl. Lemos/Vl. Quággio) PF1-PF2,,10/04/2013,19,11,1,11.0,37
+713,Linha 18.12 (Shopping/Jd. Planalto-Vl. Lemos/Vl. Quággio) PF1-PF2,,10/04/2013,20,5,1,5.0,31
+714,Linha 18.12 (Shopping/Jd. Planalto-Vl. Lemos/Vl. Quággio) PF1-PF2,,10/04/2013,22,52,2,26.0,29
+715,Linha 18.12 (Shopping/Jd. Planalto-Vl. Lemos/Vl. Quággio) PF1-PF2,,10/04/2013,23,1,1,1.0,23
+716,Linha 18.12 (Shopping/Jd. Planalto-Vl. Lemos/Vl. Quággio) PF2-PF1,,10/04/2013,5,34,2,17.0,33
+717,Linha 18.12 (Shopping/Jd. Planalto-Vl. Lemos/Vl. Quággio) PF2-PF1,,10/04/2013,6,70,2,35.0,32
+718,Linha 18.12 (Shopping/Jd. Planalto-Vl. Lemos/Vl. Quággio) PF2-PF1,,10/04/2013,7,77,2,38.5,37
+719,Linha 18.12 (Shopping/Jd. Planalto-Vl. Lemos/Vl. Quággio) PF2-PF1,,10/04/2013,8,18,1,18.0,33
+720,Linha 18.12 (Shopping/Jd. Planalto-Vl. Lemos/Vl. Quággio) PF2-PF1,,10/04/2013,9,37,2,18.5,36
+721,Linha 18.12 (Shopping/Jd. Planalto-Vl. Lemos/Vl. Quággio) PF2-PF1,,10/04/2013,10,9,1,9.0,35
+722,Linha 18.12 (Shopping/Jd. Planalto-Vl. Lemos/Vl. Quággio) PF2-PF1,,10/04/2013,11,20,1,20.0,40
+723,Linha 18.12 (Shopping/Jd. Planalto-Vl. Lemos/Vl. Quággio) PF2-PF1,,10/04/2013,12,34,1,34.0,39
+724,Linha 18.12 (Shopping/Jd. Planalto-Vl. Lemos/Vl. Quággio) PF2-PF1,,10/04/2013,13,51,2,25.5,32
+725,Linha 18.12 (Shopping/Jd. Planalto-Vl. Lemos/Vl. Quággio) PF2-PF1,,10/04/2013,14,99,3,33.0,48
+726,Linha 18.12 (Shopping/Jd. Planalto-Vl. Lemos/Vl. Quággio) PF2-PF1,,10/04/2013,15,62,3,20.7,34
+727,Linha 18.12 (Shopping/Jd. Planalto-Vl. Lemos/Vl. Quággio) PF2-PF1,,10/04/2013,16,41,2,20.5,34
+728,Linha 18.12 (Shopping/Jd. Planalto-Vl. Lemos/Vl. Quággio) PF2-PF1,,10/04/2013,17,101,3,33.7,36
+729,Linha 18.12 (Shopping/Jd. Planalto-Vl. Lemos/Vl. Quággio) PF2-PF1,,10/04/2013,18,47,3,15.7,31
+730,Linha 18.12 (Shopping/Jd. Planalto-Vl. Lemos/Vl. Quággio) PF2-PF1,,10/04/2013,19,15,1,15.0,40
+731,Linha 18.12 (Shopping/Jd. Planalto-Vl. Lemos/Vl. Quággio) PF2-PF1,,10/04/2013,20,34,2,17.0,32
+732,Linha 18.12 (Shopping/Jd. Planalto-Vl. Lemos/Vl. Quággio) PF2-PF1,,10/04/2013,21,13,1,13.0,29
+733,Linha 18.12 (Shopping/Jd. Planalto-Vl. Lemos/Vl. Quággio) PF2-PF1,,10/04/2013,22,16,2,8.0,28
+734,Linha 18.12 (Shopping/Jd. Planalto-Vl. Lemos/Vl. Quággio) PF2-PF1,,10/04/2013,23,1,1,1.0,24
+735,Linha 21.17 (Jd.Godoy-Jd. Terra Branca) PF1-PF2,,11/04/2013,6,45,2,22.5,38
+736,Linha 21.17 (Jd.Godoy-Jd. Terra Branca) PF1-PF2,,11/04/2013,7,48,2,24.0,38
+737,Linha 21.17 (Jd.Godoy-Jd. Terra Branca) PF1-PF2,,11/04/2013,8,61,2,30.5,40
+738,Linha 21.17 (Jd.Godoy-Jd. Terra Branca) PF1-PF2,,11/04/2013,9,24,2,12.0,37
+739,Linha 21.17 (Jd.Godoy-Jd. Terra Branca) PF1-PF2,,11/04/2013,10,13,1,13.0,38
+740,Linha 21.17 (Jd.Godoy-Jd. Terra Branca) PF1-PF2,,11/04/2013,11,18,1,18.0,39
+741,Linha 21.17 (Jd.Godoy-Jd. Terra Branca) PF1-PF2,,11/04/2013,12,16,1,16.0,38
+742,Linha 21.17 (Jd.Godoy-Jd. Terra Branca) PF1-PF2,,11/04/2013,13,66,2,33.0,44
+743,Linha 21.17 (Jd.Godoy-Jd. Terra Branca) PF1-PF2,,11/04/2013,14,41,2,20.5,34
+744,Linha 21.17 (Jd.Godoy-Jd. Terra Branca) PF1-PF2,,11/04/2013,15,26,1,26.0,47
+745,Linha 21.17 (Jd.Godoy-Jd. Terra Branca) PF1-PF2,,11/04/2013,16,88,3,29.3,37
+746,Linha 21.17 (Jd.Godoy-Jd. Terra Branca) PF1-PF2,,11/04/2013,17,63,2,31.5,38
+747,Linha 21.17 (Jd.Godoy-Jd. Terra Branca) PF1-PF2,,11/04/2013,18,102,3,34.0,40
+748,Linha 21.17 (Jd.Godoy-Jd. Terra Branca) PF1-PF2,,11/04/2013,19,15,1,15.0,35
+749,Linha 21.17 (Jd.Godoy-Jd. Terra Branca) PF1-PF2,,11/04/2013,20,25,2,12.5,31
+750,Linha 21.17 (Jd.Godoy-Jd. Terra Branca) PF1-PF2,,11/04/2013,21,7,1,7.0,30
+751,Linha 21.17 (Jd.Godoy-Jd. Terra Branca) PF1-PF2,,11/04/2013,22,19,2,9.5,31
+752,Linha 21.17 (Jd.Godoy-Jd. Terra Branca) PF1-PF2,,11/04/2013,23,4,1,4.0,28
+753,Linha 21.17 (Jd.Godoy-Jd. Terra Branca) PF2-PF1,,11/04/2013,5,18,1,18.0,29
+754,Linha 21.17 (Jd.Godoy-Jd. Terra Branca) PF2-PF1,,11/04/2013,6,56,2,28.0,35
+755,Linha 21.17 (Jd.Godoy-Jd. Terra Branca) PF2-PF1,,11/04/2013,7,48,2,24.0,35
+756,Linha 21.17 (Jd.Godoy-Jd. Terra Branca) PF2-PF1,,11/04/2013,8,44,2,22.0,35
+757,Linha 21.17 (Jd.Godoy-Jd. Terra Branca) PF2-PF1,,11/04/2013,9,17,1,17.0,35
+758,Linha 21.17 (Jd.Godoy-Jd. Terra Branca) PF2-PF1,,11/04/2013,10,25,2,12.5,33
+759,Linha 21.17 (Jd.Godoy-Jd. Terra Branca) PF2-PF1,,11/04/2013,11,26,1,26.0,34
+760,Linha 21.17 (Jd.Godoy-Jd. Terra Branca) PF2-PF1,,11/04/2013,12,32,2,16.0,36
+761,Linha 21.17 (Jd.Godoy-Jd. Terra Branca) PF2-PF1,,11/04/2013,13,30,1,30.0,36
+762,Linha 21.17 (Jd.Godoy-Jd. Terra Branca) PF2-PF1,,11/04/2013,14,30,1,30.0,39
+763,Linha 21.17 (Jd.Godoy-Jd. Terra Branca) PF2-PF1,,11/04/2013,15,43,2,21.5,36
+764,Linha 21.17 (Jd.Godoy-Jd. Terra Branca) PF2-PF1,,11/04/2013,16,59,2,29.5,34
+765,Linha 21.17 (Jd.Godoy-Jd. Terra Branca) PF2-PF1,,11/04/2013,17,138,3,46.0,40
+766,Linha 21.17 (Jd.Godoy-Jd. Terra Branca) PF2-PF1,,11/04/2013,18,17,1,17.0,34
+767,Linha 21.17 (Jd.Godoy-Jd. Terra Branca) PF2-PF1,,11/04/2013,19,38,2,19.0,34
+768,Linha 21.17 (Jd.Godoy-Jd. Terra Branca) PF2-PF1,,11/04/2013,20,13,1,13.0,32
+769,Linha 21.17 (Jd.Godoy-Jd. Terra Branca) PF2-PF1,,11/04/2013,21,21,2,10.5,29
+770,Linha 21.17 (Jd.Godoy-Jd. Terra Branca) PF2-PF1,,11/04/2013,22,17,1,17.0,29
+771,Linha 21.17 (Jd.Godoy-Jd. Terra Branca) PF2-PF1,,11/04/2013,23,8,1,8.0,21
+772,Linha 26.29 (Stª Luzia/Flórida-Alto Paraíso/Vl. Industrial) PF1-PF2,,10/04/2013,5,44,1,44.0,34
+773,Linha 26.29 (Stª Luzia/Flórida-Alto Paraíso/Vl. Industrial) PF1-PF2,,10/04/2013,6,118,3,39.3,37
+774,Linha 26.29 (Stª Luzia/Flórida-Alto Paraíso/Vl. Industrial) PF1-PF2,,10/04/2013,7,126,3,42.0,38
+775,Linha 26.29 (Stª Luzia/Flórida-Alto Paraíso/Vl. Industrial) PF1-PF2,,10/04/2013,8,44,2,22.0,38
+776,Linha 26.29 (Stª Luzia/Flórida-Alto Paraíso/Vl. Industrial) PF1-PF2,,10/04/2013,9,14,1,14.0,33
+777,Linha 26.29 (Stª Luzia/Flórida-Alto Paraíso/Vl. Industrial) PF1-PF2,,10/04/2013,10,39,2,19.5,39
+778,Linha 26.29 (Stª Luzia/Flórida-Alto Paraíso/Vl. Industrial) PF1-PF2,,10/04/2013,11,46,2,23.0,40
+779,Linha 26.29 (Stª Luzia/Flórida-Alto Paraíso/Vl. Industrial) PF1-PF2,,10/04/2013,12,74,2,37.0,41
+780,Linha 26.29 (Stª Luzia/Flórida-Alto Paraíso/Vl. Industrial) PF1-PF2,,10/04/2013,13,85,2,42.5,39
+781,Linha 26.29 (Stª Luzia/Flórida-Alto Paraíso/Vl. Industrial) PF1-PF2,,10/04/2013,14,46,2,23.0,38
+782,Linha 26.29 (Stª Luzia/Flórida-Alto Paraíso/Vl. Industrial) PF1-PF2,,10/04/2013,15,47,1,47.0,41
+783,Linha 26.29 (Stª Luzia/Flórida-Alto Paraíso/Vl. Industrial) PF1-PF2,,10/04/2013,16,16,1,16.0,40
+784,Linha 26.29 (Stª Luzia/Flórida-Alto Paraíso/Vl. Industrial) PF1-PF2,,10/04/2013,17,44,1,44.0,39
+785,Linha 26.29 (Stª Luzia/Flórida-Alto Paraíso/Vl. Industrial) PF1-PF2,,10/04/2013,18,34,1,34.0,36
+786,Linha 26.29 (Stª Luzia/Flórida-Alto Paraíso/Vl. Industrial) PF1-PF2,,10/04/2013,19,41,2,20.5,38
+787,Linha 26.29 (Stª Luzia/Flórida-Alto Paraíso/Vl. Industrial) PF1-PF2,,10/04/2013,20,11,2,5.5,37
+788,Linha 26.29 (Stª Luzia/Flórida-Alto Paraíso/Vl. Industrial) PF1-PF2,,10/04/2013,22,17,2,8.5,27
+789,Linha 37.73 (Gasparini-Vl. Zillo) PF1-PF2,Cidade Sem Limites,11/04/2013,6,34,1,34.0,36
+790,Linha 37.73 (Gasparini-Vl. Zillo) PF1-PF2,Cidade Sem Limites,11/04/2013,7,118,3,39.3,45
+791,Linha 37.73 (Gasparini-Vl. Zillo) PF1-PF2,Cidade Sem Limites,11/04/2013,8,42,2,21.0,46
+792,Linha 37.73 (Gasparini-Vl. Zillo) PF1-PF2,Cidade Sem Limites,11/04/2013,9,30,2,15.0,49
+793,Linha 37.73 (Gasparini-Vl. Zillo) PF1-PF2,Cidade Sem Limites,11/04/2013,10,24,1,24.0,47
+794,Linha 37.73 (Gasparini-Vl. Zillo) PF1-PF2,Cidade Sem Limites,11/04/2013,11,10,1,10.0,47
+795,Linha 37.73 (Gasparini-Vl. Zillo) PF1-PF2,Cidade Sem Limites,11/04/2013,12,36,2,18.0,46
+796,Linha 37.73 (Gasparini-Vl. Zillo) PF1-PF2,Cidade Sem Limites,11/04/2013,13,35,1,35.0,49
+797,Linha 37.73 (Gasparini-Vl. Zillo) PF1-PF2,Cidade Sem Limites,11/04/2013,14,30,1,30.0,46
+798,Linha 37.73 (Gasparini-Vl. Zillo) PF1-PF2,Cidade Sem Limites,11/04/2013,15,48,1,48.0,48
+799,Linha 37.73 (Gasparini-Vl. Zillo) PF1-PF2,Cidade Sem Limites,11/04/2013,16,112,2,56.0,46
+800,Linha 37.73 (Gasparini-Vl. Zillo) PF1-PF2,Cidade Sem Limites,11/04/2013,17,113,2,56.5,50
+801,Linha 37.73 (Gasparini-Vl. Zillo) PF1-PF2,Cidade Sem Limites,11/04/2013,18,61,2,30.5,45
+802,Linha 37.73 (Gasparini-Vl. Zillo) PF1-PF2,Cidade Sem Limites,11/04/2013,19,10,1,10.0,47
+803,Linha 37.73 (Gasparini-Vl. Zillo) PF1-PF2,Cidade Sem Limites,11/04/2013,20,5,1,5.0,40
+804,Linha 37.73 (Gasparini-Vl. Zillo) PF1-PF2,Cidade Sem Limites,11/04/2013,21,15,1,15.0,43
+805,Linha 37.73 (Gasparini-Vl. Zillo) PF1-PF2,Cidade Sem Limites,11/04/2013,22,12,1,12.0,44
+806,Linha 37.73 (Gasparini-Vl. Zillo) PF2-PF1,Cidade Sem Limites,11/04/2013,6,35,3,11.7,42
+807,Linha 37.73 (Gasparini-Vl. Zillo) PF2-PF1,Cidade Sem Limites,11/04/2013,7,16,2,8.0,49
+808,Linha 37.73 (Gasparini-Vl. Zillo) PF2-PF1,Cidade Sem Limites,11/04/2013,8,15,2,7.5,47
+809,Linha 37.73 (Gasparini-Vl. Zillo) PF2-PF1,Cidade Sem Limites,11/04/2013,9,11,1,11.0,47
+810,Linha 37.73 (Gasparini-Vl. Zillo) PF2-PF1,Cidade Sem Limites,11/04/2013,10,21,2,10.5,47
+811,Linha 37.73 (Gasparini-Vl. Zillo) PF2-PF1,Cidade Sem Limites,11/04/2013,11,62,2,31.0,47
+812,Linha 37.73 (Gasparini-Vl. Zillo) PF2-PF1,Cidade Sem Limites,11/04/2013,12,37,1,37.0,49
+813,Linha 37.73 (Gasparini-Vl. Zillo) PF2-PF1,Cidade Sem Limites,11/04/2013,13,48,2,24.0,46
+814,Linha 37.73 (Gasparini-Vl. Zillo) PF2-PF1,Cidade Sem Limites,11/04/2013,14,49,2,24.5,50
+815,Linha 37.73 (Gasparini-Vl. Zillo) PF2-PF1,Cidade Sem Limites,11/04/2013,15,36,1,36.0,53
+816,Linha 37.73 (Gasparini-Vl. Zillo) PF2-PF1,Cidade Sem Limites,11/04/2013,16,68,2,34.0,50
+817,Linha 37.73 (Gasparini-Vl. Zillo) PF2-PF1,Cidade Sem Limites,11/04/2013,17,50,1,50.0,54
+818,Linha 37.73 (Gasparini-Vl. Zillo) PF2-PF1,Cidade Sem Limites,11/04/2013,18,84,2,42.0,53
+819,Linha 37.73 (Gasparini-Vl. Zillo) PF2-PF1,Cidade Sem Limites,11/04/2013,19,37,2,18.5,47
+820,Linha 37.73 (Gasparini-Vl. Zillo) PF2-PF1,Cidade Sem Limites,11/04/2013,20,29,1,29.0,42
+821,Linha 37.73 (Gasparini-Vl. Zillo) PF2-PF1,Cidade Sem Limites,11/04/2013,21,21,2,10.5,39
+822,Linha 37.73 (Gasparini-Vl. Zillo) PF2-PF1,Cidade Sem Limites,11/04/2013,22,20,1,20.0,73
+823,Linha 37.73 (Gasparini-Vl. Zillo) PF2-PF1,Cidade Sem Limites,11/04/2013,23,7,1,7.0,30
+824,Linha 38.41 (Jd. Araruna/Perdizes-Jd. Gaivota/FIB) PF1-PF2,Grande Bauru,3/04/2013,5,26,1,26.0,51
+825,Linha 38.41 (Jd. Araruna/Perdizes-Jd. Gaivota/FIB) PF1-PF2,Grande Bauru,3/04/2013,6,87,2,43.5,50
+826,Linha 38.41 (Jd. Araruna/Perdizes-Jd. Gaivota/FIB) PF1-PF2,Grande Bauru,3/04/2013,7,72,2,36.0,54
+827,Linha 38.41 (Jd. Araruna/Perdizes-Jd. Gaivota/FIB) PF1-PF2,Grande Bauru,3/04/2013,8,38,2,19.0,55
+828,Linha 38.41 (Jd. Araruna/Perdizes-Jd. Gaivota/FIB) PF1-PF2,Grande Bauru,3/04/2013,9,19,1,19.0,57
+829,Linha 38.41 (Jd. Araruna/Perdizes-Jd. Gaivota/FIB) PF1-PF2,Grande Bauru,3/04/2013,10,15,1,15.0,53
+830,Linha 38.41 (Jd. Araruna/Perdizes-Jd. Gaivota/FIB) PF1-PF2,Grande Bauru,3/04/2013,11,35,1,35.0,55
+831,Linha 38.41 (Jd. Araruna/Perdizes-Jd. Gaivota/FIB) PF1-PF2,Grande Bauru,3/04/2013,12,40,1,40.0,54
+832,Linha 38.41 (Jd. Araruna/Perdizes-Jd. Gaivota/FIB) PF1-PF2,Grande Bauru,3/04/2013,13,43,1,43.0,54
+833,Linha 38.41 (Jd. Araruna/Perdizes-Jd. Gaivota/FIB) PF1-PF2,Grande Bauru,3/04/2013,14,16,1,16.0,53
+834,Linha 38.41 (Jd. Araruna/Perdizes-Jd. Gaivota/FIB) PF1-PF2,Grande Bauru,3/04/2013,15,59,2,29.5,53
+835,Linha 38.41 (Jd. Araruna/Perdizes-Jd. Gaivota/FIB) PF1-PF2,Grande Bauru,3/04/2013,16,66,2,33.0,57
+836,Linha 38.41 (Jd. Araruna/Perdizes-Jd. Gaivota/FIB) PF1-PF2,Grande Bauru,3/04/2013,17,61,1,61.0,62
+837,Linha 38.41 (Jd. Araruna/Perdizes-Jd. Gaivota/FIB) PF1-PF2,Grande Bauru,3/04/2013,18,36,2,18.0,53
+838,Linha 38.41 (Jd. Araruna/Perdizes-Jd. Gaivota/FIB) PF1-PF2,Grande Bauru,3/04/2013,19,15,1,15.0,51
+839,Linha 38.41 (Jd. Araruna/Perdizes-Jd. Gaivota/FIB) PF1-PF2,Grande Bauru,3/04/2013,20,5,1,5.0,45
+840,Linha 38.41 (Jd. Araruna/Perdizes-Jd. Gaivota/FIB) PF1-PF2,Grande Bauru,3/04/2013,21,41,2,20.5,47
+841,Linha 38.41 (Jd. Araruna/Perdizes-Jd. Gaivota/FIB) PF1-PF2,Grande Bauru,3/04/2013,22,7,1,7.0,44
+842,Linha 38.41 (Jd. Araruna/Perdizes-Jd. Gaivota/FIB) PF2-PF1,Grande Bauru,3/04/2013,5,19,1,19.0,44
+843,Linha 38.41 (Jd. Araruna/Perdizes-Jd. Gaivota/FIB) PF2-PF1,Grande Bauru,3/04/2013,6,78,2,39.0,36
+844,Linha 38.41 (Jd. Araruna/Perdizes-Jd. Gaivota/FIB) PF2-PF1,Grande Bauru,3/04/2013,7,37,1,37.0,46
+845,Linha 38.41 (Jd. Araruna/Perdizes-Jd. Gaivota/FIB) PF2-PF1,Grande Bauru,3/04/2013,8,29,2,14.5,39
+846,Linha 38.41 (Jd. Araruna/Perdizes-Jd. Gaivota/FIB) PF2-PF1,Grande Bauru,3/04/2013,9,12,2,6.0,41
+847,Linha 38.41 (Jd. Araruna/Perdizes-Jd. Gaivota/FIB) PF2-PF1,Grande Bauru,3/04/2013,10,10,1,10.0,41
+848,Linha 38.41 (Jd. Araruna/Perdizes-Jd. Gaivota/FIB) PF2-PF1,Grande Bauru,3/04/2013,11,15,1,15.0,41
+849,Linha 38.41 (Jd. Araruna/Perdizes-Jd. Gaivota/FIB) PF2-PF1,Grande Bauru,3/04/2013,12,45,1,45.0,44
+850,Linha 38.41 (Jd. Araruna/Perdizes-Jd. Gaivota/FIB) PF2-PF1,Grande Bauru,3/04/2013,13,21,1,21.0,44
+851,Linha 38.41 (Jd. Araruna/Perdizes-Jd. Gaivota/FIB) PF2-PF1,Grande Bauru,3/04/2013,14,20,1,20.0,48
+852,Linha 38.41 (Jd. Araruna/Perdizes-Jd. Gaivota/FIB) PF2-PF1,Grande Bauru,3/04/2013,15,12,1,12.0,45
+853,Linha 38.41 (Jd. Araruna/Perdizes-Jd. Gaivota/FIB) PF2-PF1,Grande Bauru,3/04/2013,16,55,2,27.5,43
+854,Linha 38.41 (Jd. Araruna/Perdizes-Jd. Gaivota/FIB) PF2-PF1,Grande Bauru,3/04/2013,17,48,2,24.0,48
+855,Linha 38.41 (Jd. Araruna/Perdizes-Jd. Gaivota/FIB) PF2-PF1,Grande Bauru,3/04/2013,18,28,1,28.0,42
+856,Linha 38.41 (Jd. Araruna/Perdizes-Jd. Gaivota/FIB) PF2-PF1,Grande Bauru,3/04/2013,19,70,2,35.0,36
+857,Linha 38.41 (Jd. Araruna/Perdizes-Jd. Gaivota/FIB) PF2-PF1,Grande Bauru,3/04/2013,20,7,1,7.0,33
+858,Linha 38.41 (Jd. Araruna/Perdizes-Jd. Gaivota/FIB) PF2-PF1,Grande Bauru,3/04/2013,21,31,2,15.5,34
+859,Linha 39.34 (Pq. Jaraguá-Beija Flor/Jd. Silvestri) PF1-PF2,Grande Bauru,4/04/2013,6,164,4,41.0,59
+860,Linha 39.34 (Pq. Jaraguá-Beija Flor/Jd. Silvestri) PF1-PF2,Grande Bauru,4/04/2013,7,262,5,52.4,54
+861,Linha 39.34 (Pq. Jaraguá-Beija Flor/Jd. Silvestri) PF1-PF2,Grande Bauru,4/04/2013,8,299,10,29.9,53
+862,Linha 39.34 (Pq. Jaraguá-Beija Flor/Jd. Silvestri) PF1-PF2,Grande Bauru,4/04/2013,9,275,6,45.8,55
+863,Linha 39.34 (Pq. Jaraguá-Beija Flor/Jd. Silvestri) PF1-PF2,Grande Bauru,4/04/2013,10,77,3,25.7,50
+864,Linha 39.34 (Pq. Jaraguá-Beija Flor/Jd. Silvestri) PF1-PF2,Grande Bauru,4/04/2013,11,44,2,22.0,52
+865,Linha 39.34 (Pq. Jaraguá-Beija Flor/Jd. Silvestri) PF1-PF2,Grande Bauru,4/04/2013,12,139,3,46.3,56
+866,Linha 39.34 (Pq. Jaraguá-Beija Flor/Jd. Silvestri) PF1-PF2,Grande Bauru,4/04/2013,13,136,3,45.3,53
+867,Linha 39.34 (Pq. Jaraguá-Beija Flor/Jd. Silvestri) PF1-PF2,Grande Bauru,4/04/2013,14,86,2,43.0,50
+868,Linha 39.34 (Pq. Jaraguá-Beija Flor/Jd. Silvestri) PF1-PF2,Grande Bauru,4/04/2013,15,82,2,41.0,55
+869,Linha 39.34 (Pq. Jaraguá-Beija Flor/Jd. Silvestri) PF1-PF2,Grande Bauru,4/04/2013,16,132,4,33.0,67
+870,Linha 39.34 (Pq. Jaraguá-Beija Flor/Jd. Silvestri) PF1-PF2,Grande Bauru,4/04/2013,17,148,3,49.3,54
+871,Linha 39.34 (Pq. Jaraguá-Beija Flor/Jd. Silvestri) PF1-PF2,Grande Bauru,4/04/2013,18,193,4,48.3,51
+872,Linha 39.34 (Pq. Jaraguá-Beija Flor/Jd. Silvestri) PF1-PF2,Grande Bauru,4/04/2013,19,105,5,21.0,47
+873,Linha 39.34 (Pq. Jaraguá-Beija Flor/Jd. Silvestri) PF1-PF2,Grande Bauru,4/04/2013,20,16,1,16.0,45
+874,Linha 39.34 (Pq. Jaraguá-Beija Flor/Jd. Silvestri) PF1-PF2,Grande Bauru,4/04/2013,21,13,1,13.0,47
+875,Linha 39.34 (Pq. Jaraguá-Beija Flor/Jd. Silvestri) PF1-PF2,Grande Bauru,4/04/2013,22,35,3,11.7,46
+876,Linha 39.34 (Pq. Jaraguá-Beija Flor/Jd. Silvestri) PF2-PF1,Grande Bauru,4/04/2013,5,48,2,24.0,44
+877,Linha 39.34 (Pq. Jaraguá-Beija Flor/Jd. Silvestri) PF2-PF1,Grande Bauru,4/04/2013,6,238,5,47.6,46
+878,Linha 39.34 (Pq. Jaraguá-Beija Flor/Jd. Silvestri) PF2-PF1,Grande Bauru,4/04/2013,7,109,3,36.3,45
+879,Linha 39.34 (Pq. Jaraguá-Beija Flor/Jd. Silvestri) PF2-PF1,Grande Bauru,4/04/2013,8,93,4,23.3,49
+880,Linha 39.34 (Pq. Jaraguá-Beija Flor/Jd. Silvestri) PF2-PF1,Grande Bauru,4/04/2013,9,40,2,20.0,47
+881,Linha 39.34 (Pq. Jaraguá-Beija Flor/Jd. Silvestri) PF2-PF1,Grande Bauru,4/04/2013,10,51,2,25.5,53
+882,Linha 39.34 (Pq. Jaraguá-Beija Flor/Jd. Silvestri) PF2-PF1,Grande Bauru,4/04/2013,11,80,3,26.7,50
+883,Linha 39.34 (Pq. Jaraguá-Beija Flor/Jd. Silvestri) PF2-PF1,Grande Bauru,4/04/2013,12,143,5,28.6,47
+884,Linha 39.34 (Pq. Jaraguá-Beija Flor/Jd. Silvestri) PF2-PF1,Grande Bauru,4/04/2013,13,127,3,42.3,54
+885,Linha 39.34 (Pq. Jaraguá-Beija Flor/Jd. Silvestri) PF2-PF1,Grande Bauru,4/04/2013,14,87,2,43.5,53
+886,Linha 39.34 (Pq. Jaraguá-Beija Flor/Jd. Silvestri) PF2-PF1,Grande Bauru,4/04/2013,15,139,3,46.3,57
+887,Linha 39.34 (Pq. Jaraguá-Beija Flor/Jd. Silvestri) PF2-PF1,Grande Bauru,4/04/2013,16,178,3,59.3,57
+888,Linha 39.34 (Pq. Jaraguá-Beija Flor/Jd. Silvestri) PF2-PF1,Grande Bauru,4/04/2013,17,148,3,49.3,55
+889,Linha 39.34 (Pq. Jaraguá-Beija Flor/Jd. Silvestri) PF2-PF1,Grande Bauru,4/04/2013,18,110,3,36.7,52
+890,Linha 39.34 (Pq. Jaraguá-Beija Flor/Jd. Silvestri) PF2-PF1,Grande Bauru,4/04/2013,19,56,3,18.7,43
+891,Linha 39.34 (Pq. Jaraguá-Beija Flor/Jd. Silvestri) PF2-PF1,Grande Bauru,4/04/2013,20,33,1,33.0,50
+892,Linha 39.34 (Pq. Jaraguá-Beija Flor/Jd. Silvestri) PF2-PF1,Grande Bauru,4/04/2013,21,46,2,23.0,47
+893,Linha 39.34 (Pq. Jaraguá-Beija Flor/Jd. Silvestri) PF2-PF1,Grande Bauru,4/04/2013,22,45,2,22.5,39
+894,Linha 39.34 (Pq. Jaraguá-Beija Flor/Jd. Silvestri) PF2-PF1,Grande Bauru,4/04/2013,23,1,1,1.0,36
+895,Linha 45.53 (Jd. Europa-Gj. Ito/Pq. Jaraguá) PF1-PF2,Grande Bauru,9/04/2013,5,5,1,5.0,47
+896,Linha 45.53 (Jd. Europa-Gj. Ito/Pq. Jaraguá) PF1-PF2,Grande Bauru,9/04/2013,6,61,2,30.5,58
+897,Linha 45.53 (Jd. Europa-Gj. Ito/Pq. Jaraguá) PF1-PF2,Grande Bauru,9/04/2013,7,47,2,23.5,57
+898,Linha 45.53 (Jd. Europa-Gj. Ito/Pq. Jaraguá) PF1-PF2,Grande Bauru,9/04/2013,8,18,2,9.0,53
+899,Linha 45.53 (Jd. Europa-Gj. Ito/Pq. Jaraguá) PF1-PF2,Grande Bauru,9/04/2013,9,40,2,20.0,60
+900,Linha 45.53 (Jd. Europa-Gj. Ito/Pq. Jaraguá) PF1-PF2,Grande Bauru,9/04/2013,10,32,2,16.0,57
+901,Linha 45.53 (Jd. Europa-Gj. Ito/Pq. Jaraguá) PF1-PF2,Grande Bauru,9/04/2013,11,52,2,26.0,60
+902,Linha 45.53 (Jd. Europa-Gj. Ito/Pq. Jaraguá) PF1-PF2,Grande Bauru,9/04/2013,12,54,2,27.0,55
+903,Linha 45.53 (Jd. Europa-Gj. Ito/Pq. Jaraguá) PF1-PF2,Grande Bauru,9/04/2013,13,55,2,27.5,58
+904,Linha 45.53 (Jd. Europa-Gj. Ito/Pq. Jaraguá) PF1-PF2,Grande Bauru,9/04/2013,14,69,2,34.5,62
+905,Linha 45.53 (Jd. Europa-Gj. Ito/Pq. Jaraguá) PF1-PF2,Grande Bauru,9/04/2013,15,151,3,50.3,64
+906,Linha 45.53 (Jd. Europa-Gj. Ito/Pq. Jaraguá) PF1-PF2,Grande Bauru,9/04/2013,16,100,2,50.0,69
+907,Linha 45.53 (Jd. Europa-Gj. Ito/Pq. Jaraguá) PF1-PF2,Grande Bauru,9/04/2013,17,154,3,51.3,64
+908,Linha 45.53 (Jd. Europa-Gj. Ito/Pq. Jaraguá) PF1-PF2,Grande Bauru,9/04/2013,18,67,2,33.5,60
+909,Linha 45.53 (Jd. Europa-Gj. Ito/Pq. Jaraguá) PF1-PF2,Grande Bauru,9/04/2013,19,20,1,20.0,59
+910,Linha 45.53 (Jd. Europa-Gj. Ito/Pq. Jaraguá) PF1-PF2,Grande Bauru,9/04/2013,20,53,2,26.5,53
+911,Linha 45.53 (Jd. Europa-Gj. Ito/Pq. Jaraguá) PF1-PF2,Grande Bauru,9/04/2013,21,12,1,12.0,60
+912,Linha 45.53 (Jd. Europa-Gj. Ito/Pq. Jaraguá) PF1-PF2,Grande Bauru,9/04/2013,22,16,1,16.0,47
+913,Linha 45.53 (Jd. Europa-Gj. Ito/Pq. Jaraguá) PF1-PF2,Grande Bauru,9/04/2013,23,17,1,17.0,46
+914,Linha 45.53 (Jd. Europa-Gj. Ito/Pq. Jaraguá) PF2-PF1,Grande Bauru,9/04/2013,5,63,2,31.5,50
+915,Linha 45.53 (Jd. Europa-Gj. Ito/Pq. Jaraguá) PF2-PF1,Grande Bauru,9/04/2013,6,111,2,55.5,56
+916,Linha 45.53 (Jd. Europa-Gj. Ito/Pq. Jaraguá) PF2-PF1,Grande Bauru,9/04/2013,7,136,3,45.3,61
+917,Linha 45.53 (Jd. Europa-Gj. Ito/Pq. Jaraguá) PF2-PF1,Grande Bauru,9/04/2013,8,46,2,23.0,52
+918,Linha 45.53 (Jd. Europa-Gj. Ito/Pq. Jaraguá) PF2-PF1,Grande Bauru,9/04/2013,9,61,2,30.5,59
+919,Linha 45.53 (Jd. Europa-Gj. Ito/Pq. Jaraguá) PF2-PF1,Grande Bauru,9/04/2013,10,60,2,30.0,55
+920,Linha 45.53 (Jd. Europa-Gj. Ito/Pq. Jaraguá) PF2-PF1,Grande Bauru,9/04/2013,11,43,2,21.5,52
+921,Linha 45.53 (Jd. Europa-Gj. Ito/Pq. Jaraguá) PF2-PF1,Grande Bauru,9/04/2013,12,116,2,58.0,59
+922,Linha 45.53 (Jd. Europa-Gj. Ito/Pq. Jaraguá) PF2-PF1,Grande Bauru,9/04/2013,13,66,2,33.0,58
+923,Linha 45.53 (Jd. Europa-Gj. Ito/Pq. Jaraguá) PF2-PF1,Grande Bauru,9/04/2013,14,47,2,23.5,52
+924,Linha 45.53 (Jd. Europa-Gj. Ito/Pq. Jaraguá) PF2-PF1,Grande Bauru,9/04/2013,15,27,2,13.5,54
+925,Linha 45.53 (Jd. Europa-Gj. Ito/Pq. Jaraguá) PF2-PF1,Grande Bauru,9/04/2013,16,60,3,20.0,52
+926,Linha 45.53 (Jd. Europa-Gj. Ito/Pq. Jaraguá) PF2-PF1,Grande Bauru,9/04/2013,17,31,1,31.0,55
+927,Linha 45.53 (Jd. Europa-Gj. Ito/Pq. Jaraguá) PF2-PF1,Grande Bauru,9/04/2013,18,23,2,11.5,52
+928,Linha 45.53 (Jd. Europa-Gj. Ito/Pq. Jaraguá) PF2-PF1,Grande Bauru,9/04/2013,19,12,2,6.0,50
+929,Linha 45.53 (Jd. Europa-Gj. Ito/Pq. Jaraguá) PF2-PF1,Grande Bauru,9/04/2013,20,7,1,7.0,53
+930,Linha 45.53 (Jd. Europa-Gj. Ito/Pq. Jaraguá) PF2-PF1,Grande Bauru,9/04/2013,21,4,1,4.0,42
+931,Linha 45.53 (Jd. Europa-Gj. Ito/Pq. Jaraguá) PF2-PF1,Grande Bauru,9/04/2013,22,8,2,4.0,45
+932,Linha 48.11 (Isaura P. Garmes-Jd. Estoril) PF1-PF2,Cidade Sem Limites,11/04/2013,5,62,2,31.0,44
+933,Linha 48.11 (Isaura P. Garmes-Jd. Estoril) PF1-PF2,Cidade Sem Limites,11/04/2013,6,164,3,54.7,48
+934,Linha 48.11 (Isaura P. Garmes-Jd. Estoril) PF1-PF2,Cidade Sem Limites,11/04/2013,7,200,4,50.0,53
+935,Linha 48.11 (Isaura P. Garmes-Jd. Estoril) PF1-PF2,Cidade Sem Limites,11/04/2013,8,100,3,33.3,59
+936,Linha 48.11 (Isaura P. Garmes-Jd. Estoril) PF1-PF2,Cidade Sem Limites,11/04/2013,9,44,2,22.0,51
+937,Linha 48.11 (Isaura P. Garmes-Jd. Estoril) PF1-PF2,Cidade Sem Limites,11/04/2013,10,41,2,20.5,48
+938,Linha 48.11 (Isaura P. Garmes-Jd. Estoril) PF1-PF2,Cidade Sem Limites,11/04/2013,11,58,2,29.0,51
+939,Linha 48.11 (Isaura P. Garmes-Jd. Estoril) PF1-PF2,Cidade Sem Limites,11/04/2013,12,116,3,38.7,52
+940,Linha 48.11 (Isaura P. Garmes-Jd. Estoril) PF1-PF2,Cidade Sem Limites,11/04/2013,13,106,3,35.3,49
+941,Linha 48.11 (Isaura P. Garmes-Jd. Estoril) PF1-PF2,Cidade Sem Limites,11/04/2013,14,38,2,19.0,50
+942,Linha 48.11 (Isaura P. Garmes-Jd. Estoril) PF1-PF2,Cidade Sem Limites,11/04/2013,15,47,2,23.5,48
+943,Linha 48.11 (Isaura P. Garmes-Jd. Estoril) PF1-PF2,Cidade Sem Limites,11/04/2013,16,22,2,11.0,48
+944,Linha 48.11 (Isaura P. Garmes-Jd. Estoril) PF1-PF2,Cidade Sem Limites,11/04/2013,17,13,2,6.5,50
+945,Linha 48.11 (Isaura P. Garmes-Jd. Estoril) PF1-PF2,Cidade Sem Limites,11/04/2013,18,100,3,33.3,48
+946,Linha 48.11 (Isaura P. Garmes-Jd. Estoril) PF1-PF2,Cidade Sem Limites,11/04/2013,19,15,2,7.5,41
+947,Linha 48.11 (Isaura P. Garmes-Jd. Estoril) PF1-PF2,Cidade Sem Limites,11/04/2013,20,16,2,8.0,49
+948,Linha 48.11 (Isaura P. Garmes-Jd. Estoril) PF1-PF2,Cidade Sem Limites,11/04/2013,21,6,1,6.0,40
+949,Linha 48.11 (Isaura P. Garmes-Jd. Estoril) PF1-PF2,Cidade Sem Limites,11/04/2013,22,4,2,2.0,36
+950,Linha 48.11 (Isaura P. Garmes-Jd. Estoril) PF1-PF2,Cidade Sem Limites,11/04/2013,23,5,1,5.0,32
+951,Linha 48.11 (Isaura P. Garmes-Jd. Estoril) PF2-PF1,Cidade Sem Limites,11/04/2013,6,5,1,5.0,42
+952,Linha 48.11 (Isaura P. Garmes-Jd. Estoril) PF2-PF1,Cidade Sem Limites,11/04/2013,7,20,1,20.0,53
+953,Linha 48.11 (Isaura P. Garmes-Jd. Estoril) PF2-PF1,Cidade Sem Limites,11/04/2013,8,22,3,7.3,44
+954,Linha 48.11 (Isaura P. Garmes-Jd. Estoril) PF2-PF1,Cidade Sem Limites,11/04/2013,9,46,3,15.3,51
+955,Linha 48.11 (Isaura P. Garmes-Jd. Estoril) PF2-PF1,Cidade Sem Limites,11/04/2013,10,13,2,6.5,49
+956,Linha 48.11 (Isaura P. Garmes-Jd. Estoril) PF2-PF1,Cidade Sem Limites,11/04/2013,11,101,3,33.7,51
+957,Linha 48.11 (Isaura P. Garmes-Jd. Estoril) PF2-PF1,Cidade Sem Limites,11/04/2013,12,59,2,29.5,54
+958,Linha 48.11 (Isaura P. Garmes-Jd. Estoril) PF2-PF1,Cidade Sem Limites,11/04/2013,13,75,3,25.0,49
+959,Linha 48.11 (Isaura P. Garmes-Jd. Estoril) PF2-PF1,Cidade Sem Limites,11/04/2013,14,80,2,40.0,56
+960,Linha 48.11 (Isaura P. Garmes-Jd. Estoril) PF2-PF1,Cidade Sem Limites,11/04/2013,15,97,2,48.5,55
+961,Linha 48.11 (Isaura P. Garmes-Jd. Estoril) PF2-PF1,Cidade Sem Limites,11/04/2013,16,153,3,51.0,61
+962,Linha 48.11 (Isaura P. Garmes-Jd. Estoril) PF2-PF1,Cidade Sem Limites,11/04/2013,17,126,2,63.0,65
+963,Linha 48.11 (Isaura P. Garmes-Jd. Estoril) PF2-PF1,Cidade Sem Limites,11/04/2013,18,73,2,36.5,56
+964,Linha 48.11 (Isaura P. Garmes-Jd. Estoril) PF2-PF1,Cidade Sem Limites,11/04/2013,19,62,3,20.7,47
+965,Linha 48.11 (Isaura P. Garmes-Jd. Estoril) PF2-PF1,Cidade Sem Limites,11/04/2013,20,53,2,26.5,47
+966,Linha 48.11 (Isaura P. Garmes-Jd. Estoril) PF2-PF1,Cidade Sem Limites,11/04/2013,21,45,2,22.5,44
+967,Linha 48.11 (Isaura P. Garmes-Jd. Estoril) PF2-PF1,Cidade Sem Limites,11/04/2013,22,33,2,16.5,44
+968,Linha 48.11 (Isaura P. Garmes-Jd. Estoril) PF2-PF1,Cidade Sem Limites,11/04/2013,23,10,1,10.0,38
+969,Linha 52.32 (Pousada Esperança-Campus/via Geisel) PF1-PF2,Baurutrans/Cidade Sem Limites,10/04/2013,6,146,2,73.0,58
+970,Linha 52.32 (Pousada Esperança-Campus/via Geisel) PF1-PF2,Baurutrans/Cidade Sem Limites,10/04/2013,7,95,1,95.0,64
+971,Linha 52.32 (Pousada Esperança-Campus/via Geisel) PF1-PF2,Baurutrans/Cidade Sem Limites,10/04/2013,8,30,1,30.0,52
+972,Linha 52.32 (Pousada Esperança-Campus/via Geisel) PF1-PF2,Baurutrans/Cidade Sem Limites,10/04/2013,9,21,1,21.0,47
+973,Linha 52.32 (Pousada Esperança-Campus/via Geisel) PF1-PF2,Baurutrans/Cidade Sem Limites,10/04/2013,10,22,1,22.0,48
+974,Linha 52.32 (Pousada Esperança-Campus/via Geisel) PF1-PF2,Baurutrans/Cidade Sem Limites,10/04/2013,11,11,1,11.0,48
+975,Linha 52.32 (Pousada Esperança-Campus/via Geisel) PF1-PF2,Baurutrans/Cidade Sem Limites,10/04/2013,12,49,1,49.0,59
+976,Linha 52.32 (Pousada Esperança-Campus/via Geisel) PF1-PF2,Baurutrans/Cidade Sem Limites,10/04/2013,13,84,2,42.0,60
+977,Linha 52.32 (Pousada Esperança-Campus/via Geisel) PF1-PF2,Baurutrans/Cidade Sem Limites,10/04/2013,15,23,1,23.0,50
+978,Linha 52.32 (Pousada Esperança-Campus/via Geisel) PF1-PF2,Baurutrans/Cidade Sem Limites,10/04/2013,16,39,1,39.0,52
+979,Linha 52.32 (Pousada Esperança-Campus/via Geisel) PF1-PF2,Baurutrans/Cidade Sem Limites,10/04/2013,17,24,1,24.0,54
+980,Linha 52.32 (Pousada Esperança-Campus/via Geisel) PF1-PF2,Baurutrans/Cidade Sem Limites,10/04/2013,18,55,1,55.0,55
+981,Linha 52.32 (Pousada Esperança-Campus/via Geisel) PF1-PF2,Baurutrans/Cidade Sem Limites,10/04/2013,20,16,1,16.0,42
+982,Linha 52.32 (Pousada Esperança-Campus/via Geisel) PF1-PF2,Baurutrans/Cidade Sem Limites,10/04/2013,22,8,1,8.0,47
+983,Linha 52.32 (Pousada Esperança-Campus/via Geisel) PF2-PF1,Baurutrans/Cidade Sem Limites,10/04/2013,7,41,1,41.0,58
+984,Linha 52.32 (Pousada Esperança-Campus/via Geisel) PF2-PF1,Baurutrans/Cidade Sem Limites,10/04/2013,8,13,1,13.0,46
+985,Linha 52.32 (Pousada Esperança-Campus/via Geisel) PF2-PF1,Baurutrans/Cidade Sem Limites,10/04/2013,9,21,1,21.0,49
+986,Linha 52.32 (Pousada Esperança-Campus/via Geisel) PF2-PF1,Baurutrans/Cidade Sem Limites,10/04/2013,10,30,2,15.0,52
+987,Linha 52.32 (Pousada Esperança-Campus/via Geisel) PF2-PF1,Baurutrans/Cidade Sem Limites,10/04/2013,12,18,1,18.0,52
+988,Linha 52.32 (Pousada Esperança-Campus/via Geisel) PF2-PF1,Baurutrans/Cidade Sem Limites,10/04/2013,13,20,1,20.0,57
+989,Linha 52.32 (Pousada Esperança-Campus/via Geisel) PF2-PF1,Baurutrans/Cidade Sem Limites,10/04/2013,14,26,1,26.0,50
+990,Linha 52.32 (Pousada Esperança-Campus/via Geisel) PF2-PF1,Baurutrans/Cidade Sem Limites,10/04/2013,15,34,1,34.0,53
+991,Linha 52.32 (Pousada Esperança-Campus/via Geisel) PF2-PF1,Baurutrans/Cidade Sem Limites,10/04/2013,16,15,1,15.0,57
+992,Linha 52.32 (Pousada Esperança-Campus/via Geisel) PF2-PF1,Baurutrans/Cidade Sem Limites,10/04/2013,17,61,1,61.0,57
+993,Linha 52.32 (Pousada Esperança-Campus/via Geisel) PF2-PF1,Baurutrans/Cidade Sem Limites,10/04/2013,18,109,1,109.0,65
+994,Linha 52.32 (Pousada Esperança-Campus/via Geisel) PF2-PF1,Baurutrans/Cidade Sem Limites,10/04/2013,19,37,1,37.0,58
+995,Linha 52.32 (Pousada Esperança-Campus/via Geisel) PF2-PF1,Baurutrans/Cidade Sem Limites,10/04/2013,21,24,1,24.0,57
+996,Linha 52.32 (Pousada Esperança-Campus/via Geisel) PF2-PF1,Baurutrans/Cidade Sem Limites,10/04/2013,23,35,1,35.0,64
+997,Linha 57.58 (Sta Fé – Cid. Universitária) PF1-PF2,Cidade Sem Limites,11/04/2013,5,116,2,58.0,53
+998,Linha 57.58 (Sta Fé – Cid. Universitária) PF1-PF2,Cidade Sem Limites,11/04/2013,6,219,3,73.0,58
+999,Linha 57.58 (Sta Fé – Cid. Universitária) PF1-PF2,Cidade Sem Limites,11/04/2013,7,236,4,59.0,47
+1000,Linha 57.58 (Sta Fé – Cid. Universitária) PF1-PF2,Cidade Sem Limites,11/04/2013,8,118,3,39.3,49
+1001,Linha 57.58 (Sta Fé – Cid. Universitária) PF1-PF2,Cidade Sem Limites,11/04/2013,9,85,3,28.3,44
+1002,Linha 57.58 (Sta Fé – Cid. Universitária) PF1-PF2,Cidade Sem Limites,11/04/2013,10,60,3,20.0,41
+1003,Linha 57.58 (Sta Fé – Cid. Universitária) PF1-PF2,Cidade Sem Limites,11/04/2013,11,46,2,23.0,45
+1004,Linha 57.58 (Sta Fé – Cid. Universitária) PF1-PF2,Cidade Sem Limites,11/04/2013,12,139,3,46.3,47
+1005,Linha 57.58 (Sta Fé – Cid. Universitária) PF1-PF2,Cidade Sem Limites,11/04/2013,13,102,2,51.0,49
+1006,Linha 57.58 (Sta Fé – Cid. Universitária) PF1-PF2,Cidade Sem Limites,11/04/2013,14,116,3,38.7,49
+1007,Linha 57.58 (Sta Fé – Cid. Universitária) PF1-PF2,Cidade Sem Limites,11/04/2013,15,78,2,39.0,43
+1008,Linha 57.58 (Sta Fé – Cid. Universitária) PF1-PF2,Cidade Sem Limites,11/04/2013,16,56,2,28.0,47
+1009,Linha 57.58 (Sta Fé – Cid. Universitária) PF1-PF2,Cidade Sem Limites,11/04/2013,17,76,4,19.0,36
+1010,Linha 57.58 (Sta Fé – Cid. Universitária) PF1-PF2,Cidade Sem Limites,11/04/2013,18,53,3,17.7,37
+1011,Linha 57.58 (Sta Fé – Cid. Universitária) PF1-PF2,Cidade Sem Limites,11/04/2013,19,22,2,11.0,38
+1012,Linha 57.58 (Sta Fé – Cid. Universitária) PF1-PF2,Cidade Sem Limites,11/04/2013,20,14,2,7.0,33
+1013,Linha 57.58 (Sta Fé – Cid. Universitária) PF1-PF2,Cidade Sem Limites,11/04/2013,21,17,2,8.5,24
+1014,Linha 57.58 (Sta Fé – Cid. Universitária) PF1-PF2,Cidade Sem Limites,11/04/2013,22,13,2,6.5,38
+1015,Linha 57.58 (Sta Fé – Cid. Universitária) PF2-PF1,Cidade Sem Limites,11/04/2013,6,86,2,43.0,55
+1016,Linha 57.58 (Sta Fé – Cid. Universitária) PF2-PF1,Cidade Sem Limites,11/04/2013,7,13,1,13.0,40
+1017,Linha 57.58 (Sta Fé – Cid. Universitária) PF2-PF1,Cidade Sem Limites,11/04/2013,8,24,3,8.0,36
+1018,Linha 57.58 (Sta Fé – Cid. Universitária) PF2-PF1,Cidade Sem Limites,11/04/2013,9,36,3,12.0,37
+1019,Linha 57.58 (Sta Fé – Cid. Universitária) PF2-PF1,Cidade Sem Limites,11/04/2013,10,43,2,21.5,37
+1020,Linha 57.58 (Sta Fé – Cid. Universitária) PF2-PF1,Cidade Sem Limites,11/04/2013,11,52,2,26.0,41
+1021,Linha 57.58 (Sta Fé – Cid. Universitária) PF2-PF1,Cidade Sem Limites,11/04/2013,12,69,3,23.0,42
+1022,Linha 57.58 (Sta Fé – Cid. Universitária) PF2-PF1,Cidade Sem Limites,11/04/2013,13,52,2,26.0,42
+1023,Linha 57.58 (Sta Fé – Cid. Universitária) PF2-PF1,Cidade Sem Limites,11/04/2013,14,95,3,31.7,43
+1024,Linha 57.58 (Sta Fé – Cid. Universitária) PF2-PF1,Cidade Sem Limites,11/04/2013,15,98,2,49.0,46
+1025,Linha 57.58 (Sta Fé – Cid. Universitária) PF2-PF1,Cidade Sem Limites,11/04/2013,16,156,3,52.0,47
+1026,Linha 57.58 (Sta Fé – Cid. Universitária) PF2-PF1,Cidade Sem Limites,11/04/2013,17,213,4,53.3,46
+1027,Linha 57.58 (Sta Fé – Cid. Universitária) PF2-PF1,Cidade Sem Limites,11/04/2013,18,36,2,18.0,55
+1028,Linha 57.58 (Sta Fé – Cid. Universitária) PF2-PF1,Cidade Sem Limites,11/04/2013,19,60,3,20.0,42
+1029,Linha 57.58 (Sta Fé – Cid. Universitária) PF2-PF1,Cidade Sem Limites,11/04/2013,20,46,2,23.0,37
+1030,Linha 57.58 (Sta Fé – Cid. Universitária) PF2-PF1,Cidade Sem Limites,11/04/2013,21,46,2,23.0,41
+1031,Linha 57.58 (Sta Fé – Cid. Universitária) PF2-PF1,Cidade Sem Limites,11/04/2013,22,75,2,37.5,37
+1032,Linha 57.58 (Sta Fé – Cid. Universitária) PF2-PF1,Cidade Sem Limites,11/04/2013,23,19,2,9.5,38
+1033,Linha 60.11 (Pq. Sabiás/via D. Caxias-Vl. Samaritana/Jd. Estoril) PF1-PF2,Grande Bauru,4/04/2013,5,11,1,11.0,60
+1034,Linha 60.11 (Pq. Sabiás/via D. Caxias-Vl. Samaritana/Jd. Estoril) PF1-PF2,Grande Bauru,4/04/2013,6,97,2,48.5,36
+1035,Linha 60.11 (Pq. Sabiás/via D. Caxias-Vl. Samaritana/Jd. Estoril) PF1-PF2,Grande Bauru,4/04/2013,7,55,1,55.0,41
+1036,Linha 60.11 (Pq. Sabiás/via D. Caxias-Vl. Samaritana/Jd. Estoril) PF1-PF2,Grande Bauru,4/04/2013,8,54,2,27.0,35
+1037,Linha 60.11 (Pq. Sabiás/via D. Caxias-Vl. Samaritana/Jd. Estoril) PF1-PF2,Grande Bauru,4/04/2013,9,24,1,24.0,36
+1038,Linha 60.11 (Pq. Sabiás/via D. Caxias-Vl. Samaritana/Jd. Estoril) PF1-PF2,Grande Bauru,4/04/2013,10,37,2,18.5,37
+1039,Linha 60.11 (Pq. Sabiás/via D. Caxias-Vl. Samaritana/Jd. Estoril) PF1-PF2,Grande Bauru,4/04/2013,11,43,2,21.5,32
+1040,Linha 60.11 (Pq. Sabiás/via D. Caxias-Vl. Samaritana/Jd. Estoril) PF1-PF2,Grande Bauru,4/04/2013,12,75,2,37.5,54
+1041,Linha 60.11 (Pq. Sabiás/via D. Caxias-Vl. Samaritana/Jd. Estoril) PF1-PF2,Grande Bauru,4/04/2013,14,43,2,21.5,38
+1042,Linha 60.11 (Pq. Sabiás/via D. Caxias-Vl. Samaritana/Jd. Estoril) PF1-PF2,Grande Bauru,4/04/2013,15,43,2,21.5,42
+1043,Linha 60.11 (Pq. Sabiás/via D. Caxias-Vl. Samaritana/Jd. Estoril) PF1-PF2,Grande Bauru,4/04/2013,16,33,2,16.5,41
+1044,Linha 60.11 (Pq. Sabiás/via D. Caxias-Vl. Samaritana/Jd. Estoril) PF1-PF2,Grande Bauru,4/04/2013,17,17,1,17.0,43
+1045,Linha 60.11 (Pq. Sabiás/via D. Caxias-Vl. Samaritana/Jd. Estoril) PF1-PF2,Grande Bauru,4/04/2013,18,38,1,38.0,42
+1046,Linha 60.11 (Pq. Sabiás/via D. Caxias-Vl. Samaritana/Jd. Estoril) PF1-PF2,Grande Bauru,4/04/2013,19,2,1,2.0,40
+1047,Linha 60.11 (Pq. Sabiás/via D. Caxias-Vl. Samaritana/Jd. Estoril) PF1-PF2,Grande Bauru,4/04/2013,20,1,1,1.0,22
+1048,Linha 60.11 (Pq. Sabiás/via D. Caxias-Vl. Samaritana/Jd. Estoril) PF1-PF2,Grande Bauru,4/04/2013,21,5,1,5.0,24
+1049,Linha 60.11 (Pq. Sabiás/via D. Caxias-Vl. Samaritana/Jd. Estoril) PF2-PF1,Grande Bauru,4/04/2013,6,79,2,39.5,34
+1050,Linha 60.11 (Pq. Sabiás/via D. Caxias-Vl. Samaritana/Jd. Estoril) PF2-PF1,Grande Bauru,4/04/2013,7,5,1,5.0,30
+1051,Linha 60.11 (Pq. Sabiás/via D. Caxias-Vl. Samaritana/Jd. Estoril) PF2-PF
