@@ -1,21 +1,22 @@
 # Projetos da disciplina de LABORATÓRIO DE DESENVOLVIMENTO EM BANCO DE DADOS V
-## 2 SEMESTRE DE 20225
+## 2o. SEMESTRE DE 2025
 
 
-# 🚀 Projeto de Banco de Dados - GRUPO 01
+# 🚀 GRUPO 01 - Projeto base de dados analítica a partir do arquivo tratado de acidentes 2024
 
 ### 📝 Descrição do Projeto
 Repositório destinado à entrega do projeto prático da disciplina **LAB 5 - Banco de Dados**.
 
 ### 👥 Integrantes do Grupo
-* Nome do Aluno 1 (RA: 000000)
-* Nome do Aluno 2 (RA: 000000)
-* Nome do Aluno 3 (RA: 000000)
+*  Adrian Bassani Oliveira 
+* Gustavo Alves
+* Isabelle Elisa Vicente Fernandes
 
 ### 📂 Documentação e Arquivos
-- [ ] Modelo Entidade-Relacionamento (MER)
-- [ ] Scripts SQL (.sql)
-- [ ] Documentação Técnica (PDF)
+- [ ] Modelo Entidade-Relacionamento (MER) - MER e DER.pdf
+- [ ] Scripts SQL (.sql) - Script SQL.sql
+- [ ] Documentação Técnica (PDF) - TRABALHO DE LABORATÓRIO DE DESENVOLVIMENTO DE BANCO DE DADOS V - ETAPA 3.pdf e TRABALHO DE LABORATÓRIO DE DESENVOLVIMENTO DE BANCO DE DADOS V - ETAPA 4.pdf
+- [ ] Excel com Dados e Análises - Excel - Etapa 4.xlsb
 
 ---
 *FATEC Bauru - Prof. Luis Alexandre - Semestre 2025.2*
