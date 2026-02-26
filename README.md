@@ -19,6 +19,6 @@ Repositório destinado à entrega do projeto prático da disciplina **LAB 5 - Ba
 - [ ] Documentação Técnica (PDF) - TRABALHO DE LABORATÓRIO DE DESENVOLVIMENTO DE BANCO DE DADOS V - ETAPA 3.pdf e TRABALHO DE LABORATÓRIO DE DESENVOLVIMENTO DE BANCO DE DADOS V - ETAPA 4.pdf
 - [ ] Excel com Dados e Análises - Excel - Etapa 4.xlsb
 
-| **GRUPO-01** | 2025.2 | [📂 Repositório ](https://github.com/prof-luis-alexandre/FATEC-BAURU-BD-LAB5-2025-2/tree/main/PROJETOS/GRUPO-01) |
+## | **GRUPO-01** | 2025.2 | [📂 Repositório ](https://github.com/prof-luis-alexandre/FATEC-BAURU-BD-LAB5-2025-2/tree/main/PROJETOS/GRUPO-01) |
 ---
 *FATEC Bauru - Prof. Luis Alexandre - Semestre 2025.2*
